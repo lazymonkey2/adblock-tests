@@ -1,0 +1,71 @@
+! 2021-12-02 https://dailyuploads.net
+dailyuploads.net##[src="https://dailyuploads.net/images/fiverr.png"]
+
+! 2021-12-02 https://sanet.st
+sanet.st##.feature-usnt
+sanet.st##.c-un-link.txtleft.blockSpoiler-content
+sanet.st##.un-link.blockSpoiler
+
+! 2021-12-02 https://nitro.download
+nitro.download###aswift_1_anchor
+nitro.download###aswift_1_expand
+nitro.download##div > .adsbygoogle
+nitro.download##.bad.table2
+nitro.download##.good.table2
+
+! 2021-12-04 https://userupload.in
+userupload.in##.mb-4.aboutFile.col-md-12.col-lg-6
+userupload.in###aswift_3_anchor
+userupload.in###aswift_3_expand
+userupload.in##div.col-md-12.col-lg-6 > .adsbygoogle
+
+! 2021-12-08 https://www.ilfattoquotidiano.it
+www.ilfattoquotidiano.it##.article-ifq-desc-bottom-pro-sostenitore > div
+
+! 2022-01-05 https://uploadgig.com
+uploadgig.com##div.priceBox.col-md-3.col-sm-6:nth-of-type(n-1)
+
+! 2022-01-09 https://www.msn.com
+www.msn.com##.ot-fade-in.onetrust-pc-dark-filter
+
+! 2022-01-12 https://turbobit.net
+||turbobit.net/pmbzqa/fd1_ny_free_2022_it.gif$image
+
+! 2022-01-31 https://9to5google.com
+!9to5google.com##.author_ad.adsbygoogle
+##.author_ad.adsbygoogle
+
+! 2022-02-17 https://mixdrop.co
+#@@||code.jquery.com/ui/1.12.1/jquery-ui.min.js$script,domain=mixdrop.co
+#@@||code.jquery.com/jquery-3.3.1.min.js$script,domain=mixdrop.co
+
+! 2022-02-27 https://www.corriere.it
+www.corriere.it##.sticky-video.rcs-video.embedVideo.custom-video-sticky.player
+www.corriere.it##.bck-box-newsletter
+
+! 2022-02-28 https://drop.download
+drop.download###aswift_0_anchor
+drop.download###aswift_0_expand
+drop.download##.col-md-12 > div > .adsbygoogle
+
+! 2022-03-06 https://www.ggmania.com
+www.ggmania.com##td > center
+
+! 2022-03-13 https://www.sammyfans.com
+www.sammyfans.com###aswift_0_anchor
+www.sammyfans.com###aswift_0_expand
+www.sammyfans.com###mvp-leader-wrap > .adsbygoogle
+
+! 2022-03-26 https://addons.mozilla.org
+addons.mozilla.org##.GetFirefoxButton-callout
+
+! 2022-03-29 https://addons.mozilla.org
+addons.mozilla.org##.Notice-dismissible.GetFirefoxBanner.Notice-warning.Notice
+
+! 2022-03-30 https://support.mozilla.org
+support.mozilla.org###id_scam_alert > .content
+
+! 2022-03-30 https://www.skidrowcodex.net
+www.skidrowcodex.net##[href="#CHECK-UPDATE"] > .fa-lg.fa-pulse.fa-spinner.fas
+www.skidrowcodex.net##div.blog-info .fa-lg.fa-pulse.fa-spinner.fas
+
