@@ -1,3 +1,9 @@
 ! 2022-02-18 https://m.slashdot.org
 ||a.fsdn.com/sd/m/assets/white_background2X.png$image
 ||a.fsdn.com/sd/m/assets/light_background2X.png$image
+||a.fsdn.com/sd/m/assets/dark_background2X.png$image
+
+||a.fsdn.com/sd/m/assets/white_background2X.webp$image
+||a.fsdn.com/sd/m/assets/light_background2X.webp$image
+||a.fsdn.com/sd/m/assets/dark_background2X.webp$image
+
