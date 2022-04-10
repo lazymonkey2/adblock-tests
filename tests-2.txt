@@ -69,3 +69,4 @@ support.mozilla.org###id_scam_alert > .content
 www.skidrowcodex.net##[href="#CHECK-UPDATE"] > .fa-lg.fa-pulse.fa-spinner.fas
 www.skidrowcodex.net##div.blog-info .fa-lg.fa-pulse.fa-spinner.fas
 
+##.imgAds
