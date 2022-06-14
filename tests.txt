@@ -9,3 +9,4 @@
 
 ||www.ansa.it/sito/img/black_gradient.png$image
 
+reddit.com##.m-blurred:style(filter:none !important;)
