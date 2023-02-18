@@ -9,4 +9,21 @@
 
 ||www.ansa.it/sito/img/black_gradient.png$image
 
-reddit.com##.m-blurred:style(filter:none !important;)
+m.slashdot.org##.close-ad
+
+
+www.reddit.com##.m-blurred:style(filter:none !important;)
+
+www.reddit.com##body,html:style(overflow:auto!important)
+www.reddit.com##.m-consolidate.XPromoBottomBar
+www.reddit.com##.NavFrame > .m-slideIn.XPromoBottomBar
+www.reddit.com##.NavFrame > .XPromoBottomBar > .XPromoBottomBar__container
+www.reddit.com##.m-animated.XPromoPopup__content
+www.reddit.com##.m-animated.XPromoPopupRpl__content
+www.reddit.com##.m-animated.XPromoPopupRpl__overlay
+www.reddit.com##.m-animated.XPromoPopup__overlay
+www.reddit.com##.m-active.XPromoPopupRpl
+www.reddit.com##.m-consolidate.XPromoBottomBar
+
+www.reddit.com##shreddit-experience-tree.theme-beta
+
