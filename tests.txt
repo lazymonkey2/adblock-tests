@@ -27,3 +27,5 @@ www.reddit.com##.m-consolidate.XPromoBottomBar
 
 www.reddit.com##shreddit-experience-tree.theme-beta
 
+www.reddit.com##.XPromoPopupRpl__content.m-animated
+
