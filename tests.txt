@@ -31,4 +31,7 @@ www.reddit.com##.XPromoPopupRpl__content.m-animated
 
 www.reddit.com##header > div > div > div > div > a[href="/now"]
 
-###iol_player_container > div
+www.linkiesta.it###iol_player_container > div
+
+www.wired.it##.root
+
