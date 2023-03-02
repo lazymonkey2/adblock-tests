@@ -30,3 +30,5 @@ www.reddit.com##shreddit-experience-tree.theme-beta
 www.reddit.com##.XPromoPopupRpl__content.m-animated
 
 www.reddit.com##header > div > div > div > div > a[href="/now"]
+
+###iol_player_container > div
