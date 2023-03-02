@@ -35,3 +35,51 @@ www.linkiesta.it###iol_player_container > div
 
 www.wired.it##.root
 
+! 2022-11-02 https://www.ilfattoquotidiano.it
+www.ilfattoquotidiano.it##.ovl-noconsent__wrapper
+www.ilfattoquotidiano.it##.ovl-noconsent__blur
+www.ilfattoquotidiano.it##.ovl-noconsent
+
+! 2022-11-03 https://www.ilfattoquotidiano.it
+www.ilfattoquotidiano.it##.adv-h-100.corporate-navigation
+www.ilfattoquotidiano.it##.article-ifq-bottom-pro-sostenitore-wrapper-title
+
+! 2022-11-03 https://www.repubblica.it
+www.repubblica.it###social-share-top
+
+! 2022-11-03 https://www.ilfattoquotidiano.it
+www.ilfattoquotidiano.it##.visible.social-ab-fixed.social-article-ab
+www.ilfattoquotidiano.it###cc-36040608 > .visible > .cc-adv-wrapper > .cc-adv-label
+www.ilfattoquotidiano.it##.cc-adv-wrapper
+
+! 2022-11-04 https://www.reddit.com
+www.reddit.com##.NavFrame > .m-slideIn.XPromoBottomBar
+www.reddit.com##.NavFrame > .XPromoBottomBar > .XPromoBottomBar__container
+
+! 2022-11-04 https://m.slashdot.org
+m.slashdot.org##.ad-on.google_ad.story_slot2
+
+! 2022-11-04 https://www.reddit.com
+www.reddit.com##.m-animated.XPromoPopup__content
+www.reddit.com##.m-animated.XPromoPopup__overlay
+
+www.reddit.com##body,html:style(overflow:auto!important)
+
+! 2022-11-05 https://www.tuttoandroid.net
+www.tuttoandroid.net##.admputop2.black.banner
+
+! 2022-11-05 https://www.fanpage.it
+www.fanpage.it##.fp_header__notification-tooltip
+www.fanpage.it##.fp_underfollow--no-media.js_underfollow.fp_underfollow--active.fp_underfollow--default.fp_underfollow
+www.fanpage.it##.js_notification-cta.fp_header__notification
+www.fanpage.it##.js-smart-collapse.fp_adv-box--odd.fp_adv-box--to-tablet.fp_adv-box--fpmobile_300x250_top.fp_adv-box
+www.fanpage.it##.js-smart-collapse.fp_adv-box--only-mobile.fp_adv-box--fpmobile_300x250.fp_adv-box
+www.fanpage.it##.js-smart-collapse.fp_adv-box--only-mobile.fp_adv-box--fpmobile_fplayer.fp_adv-box
+www.fanpage.it##.js-smart-collapse.fp_adv-box--both.fp_adv-box--fpmobile_300x250_bottom.fp_adv-box
+
+! 2022-11-05 https://www.ilsole24ore.com
+www.ilsole24ore.com##.shrinkable.background-adv
+www.ilsole24ore.com##.suggbox-content
+www.ilsole24ore.com##.suggbox-top
+
+
