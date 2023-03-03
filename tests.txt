@@ -82,4 +82,10 @@ www.ilsole24ore.com##.shrinkable.background-adv
 www.ilsole24ore.com##.suggbox-content
 www.ilsole24ore.com##.suggbox-top
 
+! 2023-03-03 https://tecnologia.libero.it
+tecnologia.libero.it##.vjs-top-parent-mobile
+
+! 2023-03-03 https://tecnologia.libero.it
+tecnologia.libero.it##.fixed.share-cont-art
+
 
