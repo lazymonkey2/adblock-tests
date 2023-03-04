@@ -96,4 +96,8 @@ www.laleggepertutti.it###cl-shadow-id1 > .is-show-login_body.h-entry.hentry.main
 
 www.laleggepertutti.it###BelowHeaderPlacementWrapper
 
+! 2023-03-04 https://www.linkiesta.it
+www.linkiesta.it##.banner-top
+www.linkiesta.it##.vjs-top-parent-mobile
+
 
