@@ -88,4 +88,8 @@ tecnologia.libero.it##.vjs-top-parent-mobile
 ! 2023-03-03 https://tecnologia.libero.it
 tecnologia.libero.it##.fixed.share-cont-art
 
+! 2023-03-04 https://www.ansa.it
+www.ansa.it###O_INTERSTITIAL
+www.ansa.it##.my_adsense
+
 
