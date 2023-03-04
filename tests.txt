@@ -92,4 +92,8 @@ tecnologia.libero.it##.fixed.share-cont-art
 www.ansa.it###O_INTERSTITIAL
 www.ansa.it##.my_adsense
 
+www.laleggepertutti.it###cl-shadow-id1 > .is-show-login_body.h-entry.hentry.main-content > .e-content.entry-content.article-content > .article-text-full > .BelowTitle.custom-html-18895.custom-html
+
+www.laleggepertutti.it###BelowHeaderPlacementWrapper
+
 
