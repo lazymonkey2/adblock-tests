@@ -100,4 +100,7 @@ www.laleggepertutti.it###BelowHeaderPlacementWrapper
 www.linkiesta.it##.banner-top
 www.linkiesta.it##.vjs-top-parent-mobile
 
+! 2023-03-04 https://greenreport.it
+greenreport.it##.last.first ._iub_cs_activate
+
 
