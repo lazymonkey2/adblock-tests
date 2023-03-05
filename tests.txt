@@ -184,3 +184,7 @@ www.fanpage.it##.js-smart-collapse.fp_adv-box--odd.fp_adv-box--to-tablet.fp_adv-
 
 www.fanpage.it##.js-collapse-anyways.fp_adv-box--to-tablet.fp_adv-box--fpmobile_leadeboard.fp_adv-box
 
+www.fanpage.it##.js-smart-collapse.fp_adv-box--only-mobile.fp_adv-box--fpmobile_fplayer.fp_adv-box
+
+www.fanpage.it##.oembed-youtube.embed-container
+
