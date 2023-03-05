@@ -9,8 +9,10 @@
 
 ||www.ansa.it/sito/img/black_gradient.png$image
 
-m.slashdot.org##.close-ad
+||www.hwupgrade.it/css/img/evidenza-bg-full.jpg
+||www.hwupgrade.it/css/img/evidenza-chiusura.png
 
+m.slashdot.org##.close-ad
 
 www.reddit.com##.m-blurred:style(filter:none !important;)
 
