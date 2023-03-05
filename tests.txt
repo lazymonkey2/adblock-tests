@@ -182,3 +182,5 @@ greenreport.it##.last.first ._iub_cs_activate
 ! 2023-03-05 https://www.fanpage.it
 www.fanpage.it##.js-smart-collapse.fp_adv-box--odd.fp_adv-box--to-tablet.fp_adv-box--fpmobile_300x250_top.fp_adv-box
 
+www.fanpage.it##.js-collapse-anyways.fp_adv-box--to-tablet.fp_adv-box--fpmobile_leadeboard.fp_adv-box
+
