@@ -176,8 +176,9 @@ support.mozilla.org###id_scam_alert > .content
 www.skidrowcodex.net##[href="#CHECK-UPDATE"] > .fa-lg.fa-pulse.fa-spinner.fas
 www.skidrowcodex.net##div.blog-info .fa-lg.fa-pulse.fa-spinner.fas
 
-##.imgAds
-##.metaRedirectWrapperBottomAds
+! 2023-03-04 https://greenreport.it
+greenreport.it##.last.first ._iub_cs_activate
 
-##.js-smart-collapse.fp_adv-box--odd.fp_adv-box--to-tablet.fp_adv-box--fpmobile_300x250_top.fp_adv-box
+! 2023-03-05 https://www.fanpage.it
+www.fanpage.it##.js-smart-collapse.fp_adv-box--odd.fp_adv-box--to-tablet.fp_adv-box--fpmobile_300x250_top.fp_adv-box
 
