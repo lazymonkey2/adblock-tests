@@ -11,6 +11,7 @@
 
 ||www.hwupgrade.it/css/img/evidenza-bg-full.jpg
 ||www.hwupgrade.it/css/img/evidenza-chiusura.png
+||www.hwupgrade.it/css/img/background-png-50-10x10.png
 
 m.slashdot.org##.close-ad
 
