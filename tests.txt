@@ -190,3 +190,5 @@ www.fanpage.it##.oembed-youtube.embed-container
 
 www.fanpage.it##.js-smart-collapse.fp_adv-box--only-mobile.fp_adv-box--fpmobile_300x250.fp_adv-box
 
+www.fanpage.it##.js-smart-collapse.fp_adv-box--both.fp_adv-box--fpmobile_300x250_bottom.fp_adv-box
+
