@@ -216,3 +216,6 @@ nitroflare.com###superbox-overlay
 disqus.com###comment-policy
 
 www.ilfattoquotidiano.it##.article-wrapper > div:nth-of-type(1)
+
+! 2023-03-09 https://www.ilfattoquotidiano.it
+www.ilfattoquotidiano.it##.ifq-dfp.widget
