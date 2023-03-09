@@ -227,3 +227,4 @@ www.corriere.it###rcsad_Bottom1
 
 www.corriere.it##.footer-article > .bck-adv > .is--large.adv__content
 
+9gag.com##article:has(.promoted)
