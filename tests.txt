@@ -223,3 +223,4 @@ www.ilfattoquotidiano.it##.ifq-dfp.widget
 ! 2023-03-09 https://www.corriere.it
 www.corriere.it##div.bck-adv > .is-mr-b-20.bck-adv
 
+www.corriere.it###rcsad_Bottom1
