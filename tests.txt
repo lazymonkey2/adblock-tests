@@ -224,3 +224,6 @@ www.ilfattoquotidiano.it##.ifq-dfp.widget
 www.corriere.it##div.bck-adv > .is-mr-b-20.bck-adv
 
 www.corriere.it###rcsad_Bottom1
+
+www.corriere.it##.footer-article > .bck-adv > .is--large.adv__content
+
