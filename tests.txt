@@ -232,3 +232,6 @@ www.corriere.it##.footer-article > .bck-adv > .is--large.adv__content
 ! 2023-03-10 https://www.startmag.it
 www.startmag.it##.ads
 
+! 2023-03-10 https://www.milanotoday.it
+www.milanotoday.it##.svp-video-preroll.svp
+
