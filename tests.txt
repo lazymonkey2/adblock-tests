@@ -248,3 +248,7 @@ www.investireoggi.it##.evobrid-iframe-container
 
 www.corriere.it##.sticky-video.rcs-video.embedVideo.custom-video-sticky.player
 www.corriere.it##.bck-box-newsletter
+
+outlook.live.com##[aria-label="Navigation pane"] > div > div > div:last-child
+outlook.live.com##[aria-label="Riquadro di spostamento"] > div > div > div:last-child
+
