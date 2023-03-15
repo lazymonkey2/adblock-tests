@@ -235,3 +235,4 @@ www.startmag.it##.ads
 ! 2023-03-10 https://www.milanotoday.it
 www.milanotoday.it##.svp-video-preroll.svp
 
+javascript.plainenglish.io##body > div:nth-of-type(2)
