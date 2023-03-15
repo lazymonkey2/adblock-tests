@@ -252,3 +252,6 @@ www.corriere.it##.bck-box-newsletter
 outlook.live.com##[aria-label="Navigation pane"] > div > div > div:last-child
 outlook.live.com##[aria-label="Riquadro di spostamento"] > div > div > div:last-child
 
+! 2023-03-15 https://forbes.it
+forbes.it##.visible.speakup-floating-player-container
+
