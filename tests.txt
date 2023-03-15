@@ -236,3 +236,9 @@ www.startmag.it##.ads
 www.milanotoday.it##.svp-video-preroll.svp
 
 javascript.plainenglish.io##body > div:nth-of-type(2)
+
+www.ilfattoquotidiano.it##.articlewrapper > div:nth-of-type(1)
+
+! 2023-03-15 https://www.ilsole24ore.com
+www.ilsole24ore.com##.sticky-header
+
