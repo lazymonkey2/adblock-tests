@@ -255,3 +255,4 @@ outlook.live.com##[aria-label="Riquadro di spostamento"] > div > div > div:last-
 ! 2023-03-15 https://forbes.it
 forbes.it##.visible.speakup-floating-player-container
 
+www.adnkronos.com##.speakup-floating-player-container
