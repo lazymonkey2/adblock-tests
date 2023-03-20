@@ -15,6 +15,7 @@
 
 m.slashdot.org##.close-ad
 m.slashdot.org##.ad-on.river_bottom
+m.slashdot.org###river_bottom
 
 www.reddit.com##.m-blurred:style(filter:none !important;)
 
