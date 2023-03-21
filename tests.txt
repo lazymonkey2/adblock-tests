@@ -267,3 +267,7 @@ www.adnkronos.com##.speakup-floating-player-container
 reddit.com###adLinkBar
 
 www.ilsoftware.it##.mobileOnly.re_homebox
+
+! 2023-03-21 https://www.ilsoftware.it
+||www.ilsoftware.it/images/gr994bg.png$image
+
