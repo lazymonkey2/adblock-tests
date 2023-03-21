@@ -266,3 +266,4 @@ www.adnkronos.com##.speakup-floating-player-container
 
 reddit.com###adLinkBar
 
+www.ilsoftware.it##.mobileOnly.re_homebox
