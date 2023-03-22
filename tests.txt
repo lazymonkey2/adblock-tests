@@ -273,6 +273,6 @@ www.ilsoftware.it##.mobileOnly.re_homebox
 
 www.letmeread.net###accesswarning
 
-megaup.net##.reponsiveMobileHide.socialsider.socialsider_right_middle.socialsider_fixed socialsider_bgcolor_white.socialsider_opacity
-megaup.net##-imgAds
+megaup.net##.socialsider_right_middle.socialsider_fixed.socialsider_bgcolor_white
+megaup.net##.imgAds
 
