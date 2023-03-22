@@ -274,5 +274,7 @@ www.ilsoftware.it##.mobileOnly.re_homebox
 www.letmeread.net###accesswarning
 
 megaup.net##.socialsider_right_middle.socialsider_fixed.socialsider_bgcolor_white
+
 megaup.net##.imgAds
+
 
