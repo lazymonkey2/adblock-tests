@@ -277,3 +277,5 @@ megaup.net##.socialsider_right_middle.socialsider_fixed.socialsider_bgcolor_whit
 !megaup.net##.imgAds
 
 www.reddit.com##[style^="z-index"]
+
+www.ghacks.net##.home-posts.ftd-item
