@@ -205,6 +205,7 @@ www.fanpage.it##.js-smart-collapse.fp_adv-box--both.fp_adv-box--fpmobile_300x250
 www.fanpage.it##.embed-container
 
 gizchina.it##.mrf-customBanner
+gizchina.it##.mrf-details
 
 www.tomshw.it##.bottom_bar_fixed
 
