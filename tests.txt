@@ -279,5 +279,5 @@ www.reddit.com##[style^="z-index"]
 www.ghacks.net##.home-posts.ftd-item
 
 gizchina.it##.mrf-customBanner
-gizchina.it##.mrf-details
+gizchina.it###mrf-details
 gizchina.it##.td-ss-main-sidebar
