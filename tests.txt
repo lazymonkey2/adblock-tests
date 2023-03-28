@@ -269,7 +269,7 @@ www.ilsoftware.it##.mobileOnly.re_homebox
 ! 2023-03-21 https://www.ilsoftware.it
 ||www.ilsoftware.it/images/gr994bg.png$image
 
-www.letmeread.net###accesswarning
+!www.letmeread.net###accesswarning
 
 megaup.net##.socialsider_right_middle.socialsider_fixed.socialsider_bgcolor_white
 !megaup.net##.imgAds
