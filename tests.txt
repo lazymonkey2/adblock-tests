@@ -285,4 +285,5 @@ gizchina.it##.td-ss-main-sidebar
 macitynet.it##.td-a-rec.td-a-rec-id-header_mob
 macitynet.it##.td-a-rec.td-a-rec-id-content_top_mob
 macitynet.it##.td-a-rec.td-a-rec-id-content_bottom_mob
-macitynet.it##.td-a-rec td-a-rec-id-footer_mob
+macitynet.it##.td-a-rec.td-a-rec-id-footer_mob
+macitynet.it##.td-a-rec.td-a-rec-id-loop_mob
