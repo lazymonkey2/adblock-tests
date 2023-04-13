@@ -292,3 +292,40 @@ macitynet.it##.td-a-rec.td-a-rec-id-content_top_mob
 macitynet.it##.td-a-rec.td-a-rec-id-content_bottom_mob
 macitynet.it##.td-a-rec.td-a-rec-id-footer_mob
 macitynet.it##.td-a-rec.td-a-rec-id-loop_mob
+
+! 2023-04-06 https://www.wired.it
+www.wired.it##.cne-interlude.cne
+
+! 2023-04-06 https://www.vaielettrico.it
+www.vaielettrico.it###evobrid-container-box > div
+www.vaielettrico.it##.amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-intrinsic.amp-wp-enforced-sizes.wp-image-108801.size-full.aligncenter
+
+! 2023-04-06 https://tecnologia.libero.it
+tecnologia.libero.it##.content-articolo > amp-ad.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.ampad
+tecnologia.libero.it##p > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.ampad
+tecnologia.libero.it##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
+tecnologia.libero.it##body > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.ampad
+tecnologia.libero.it##.amp-wp-meta
+
+! 2023-04-07 https://www.ansa.it
+www.ansa.it##.i-amphtml-error.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+
+! 2023-04-07 https://tg24.sky.it
+tg24.sky.it##.j-player-carousel-element.u-video-sticky
+tg24.sky.it##.s-adv-top--m.advContainer
+
+! 2023-04-08 https://tecnologia.libero.it
+tecnologia.libero.it##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.hp_320x1-p1.hp_320x1
+
+! 2023-04-08 https://www.dday.it
+www.dday.it##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.twitter-tweet
+
+! 2023-04-10 https://www.bing.com
+www.bing.com##div.b_subModule:nth-of-type(3)
+
+! 2023-04-12 https://www.ilfattoquotidiano.it
+www.ilfattoquotidiano.it##.i-amphtml-layout.i-amphtml-error.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed
+
+! 2023-04-12 https://primapavia.it
+primapavia.it##.evobrid-iframe-container
+
