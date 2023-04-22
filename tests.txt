@@ -329,3 +329,25 @@ www.ilfattoquotidiano.it##.i-amphtml-layout.i-amphtml-error.i-amphtml-built.i-am
 ! 2023-04-12 https://primapavia.it
 primapavia.it##.evobrid-iframe-container
 
+! 2023-04-15 https://amp.tio.ch
+amp.tio.ch##.wideboard.ad
+amp.tio.ch##div.rectangle.ad:nth-of-type(6)
+amp.tio.ch##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-nodisplay.i-amphtml-element
+amp.tio.ch##.middlerect.ad
+amp.tio.ch##.monsterboard.ad
+
+! 2023-04-15 https://www.ilfattoquotidiano.it
+www.ilfattoquotidiano.it##.i-amphtml-unresolved.amp-unresolved.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive > i-amphtml-sizer
+
+! 2023-04-17 https://www.leggo.it
+www.leggo.it##.generic_embed
+www.leggo.it##.adv_skin_container
+
+! 2023-04-21 https://www.badtaste.it
+www.badtaste.it##.jw-floating-dragged.jw-reset.jw-wrapper
+www.badtaste.it##.middlewall.shortcode.premium-content-block > .inner
+www.badtaste.it##.jw-reset.jw-wrapper
+www.badtaste.it##.bad-twitch-player
+www.badtaste.it##.site-border-color.notifications.omega.grid_4.no_mobile_margin
+www.badtaste.it##.site-border-color.notifications.last-box.alpha.grid_4.no_mobile_margin
+
