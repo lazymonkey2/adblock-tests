@@ -351,3 +351,65 @@ www.badtaste.it##.bad-twitch-player
 www.badtaste.it##.site-border-color.notifications.omega.grid_4.no_mobile_margin
 www.badtaste.it##.site-border-color.notifications.last-box.alpha.grid_4.no_mobile_margin
 
+! 2023-04-22 https://www.huffingtonpost.it
+www.huffingtonpost.it###advHook-Middle1
+
+! 2023-04-22 https://milano.repubblica.it
+milano.repubblica.it##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+
+! 2023-04-22 https://www.tomshw.it
+www.tomshw.it##.hide_desktop > .bx_2.bx.det_hardware.edinet_adv_container
+www.tomshw.it##.mob_bx_.mob_bx.det_hardware.edinet_adv_container
+
+! 2023-04-23 https://www.tomshw.it
+www.tomshw.it##.mob_bx_.mob_bx.det_videogioco.edinet_adv_container
+www.tomshw.it##.hide_desktop > .bx_2.bx.det_videogioco.edinet_adv_container
+www.tomshw.it##.hide_desktop > .bx_3.bx.det_videogioco.edinet_adv_container
+www.tomshw.it##.mob_bx_.mob_bx.det_altro.edinet_adv_container
+www.tomshw.it##.hide_desktop > .bx_2.bx.det_altro.edinet_adv_container
+www.tomshw.it##.hide_desktop > .bx_3.bx.det_altro.edinet_adv_container
+
+! 2023-04-23 https://www.fanpage.it
+www.fanpage.it##.telegram.fp_adv-box--autopromo.fp_adv-box--both.fp_adv-box--skin.fp_adv-box
+
+! 2023-04-23 https://www.tomshw.it
+www.tomshw.it##.mob_bx_.mob_bx.det_automotive.edinet_adv_container
+www.tomshw.it##.hide_desktop > .bx_2.bx.det_automotive.edinet_adv_container
+www.tomshw.it##.hide_desktop > .bx_3.bx.det_automotive.edinet_adv_container
+
+! 2023-04-23 https://www.ilfattoquotidiano.it
+www.ilfattoquotidiano.it##.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive
+
+! 2023-04-23 https://www.repubblica.it
+www.repubblica.it##.social-share
+www.repubblica.it##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
+www.repubblica.it##.iubenda-tp-btn--bottom-right.iubenda-tp-btn
+www.repubblica.it##.inline-photo > .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
+
+! 2023-04-23 https://www.ansa.it
+www.ansa.it##header > .hidden-tablet.hidden-desktop.adv-phone
+
+! 2023-04-23 https://quifinanza.it
+quifinanza.it##.widget_eepex
+
+! 2023-04-23 https://www.linkiesta.it
+www.linkiesta.it##.iubenda-tp-btn--bottom-left.iubenda-tp-btn
+
+! 2023-04-23 https://www.businessonline.it
+www.businessonline.it##div.gptslot:nth-of-type(1)
+www.businessonline.it##div.gptslot:nth-of-type(2)
+www.businessonline.it##div.gptslot:nth-of-type(3)
+www.businessonline.it##div.gptslot:nth-of-type(6)
+www.businessonline.it##div.gptslot:nth-of-type(7)
+www.businessonline.it###frame471 > .bannerEXMP
+www.businessonline.it###frame472 > .bannerEXMP
+www.businessonline.it###frame473 > .bannerEXMP
+www.businessonline.it###frame474 > .bannerEXMP
+
+! 2023-04-23 https://www.laleggepertutti.it
+www.laleggepertutti.it##.custom-html-15562.custom-html
+www.laleggepertutti.it##.custom-html-15563.custom-html
+www.laleggepertutti.it###lx_678175-1
+www.laleggepertutti.it###lx_678175-2 > .cl-amp-important-information-title
+www.laleggepertutti.it##.i-amphtml-unresolved.amp-unresolved.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive > i-amphtml-sizer
+
