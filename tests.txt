@@ -413,3 +413,9 @@ www.laleggepertutti.it###lx_678175-1
 www.laleggepertutti.it###lx_678175-2 > .cl-amp-important-information-title
 www.laleggepertutti.it##.i-amphtml-unresolved.amp-unresolved.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive > i-amphtml-sizer
 
+www.skidrowcodex.net##.nav.nav-tabs > li:nth-of-type(2) > a > .fas.fa-spinner.fa-pulse.fa-lg
+
+www.google.com##.nav.nav-tabs > li:nth-of-type(2) > a > .fas.fa-spinner.fa-pulse.fa-lg
+
+bing.com##body,html:style(overflow:auto!important)
+
