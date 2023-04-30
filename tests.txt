@@ -17,13 +17,12 @@
 ||hwupgrade.it/css/img/evidenza-chiusura.png
 ||hwupgrade.it/css/img/background-png-50-10x10.png
 
-
 m.slashdot.org##.close-ad
 m.slashdot.org##.ad-on.river_bottom
 m.slashdot.org###river_bottom
 
-www.reddit.com##.m-blurred:style(filter:none !important;)
 
+www.reddit.com##.m-blurred:style(filter:none !important;)
 www.reddit.com##body,html:style(overflow:auto!important)
 www.reddit.com##.m-consolidate.XPromoBottomBar
 www.reddit.com##.NavFrame > .m-slideIn.XPromoBottomBar
@@ -34,30 +33,22 @@ www.reddit.com##.m-animated.XPromoPopupRpl__overlay
 www.reddit.com##.m-animated.XPromoPopup__overlay
 www.reddit.com##.m-active.XPromoPopupRpl
 www.reddit.com##.m-consolidate.XPromoBottomBar
-
 www.reddit.com##shreddit-experience-tree.theme-beta
 
-www.reddit.com##.XPromoPopupRpl__content.m-animated
-www.reddit.com##[class=XPromoPopupRpl__content]
-www.reddit.com##[class=promoted]
-www.reddit.com##.size-compact.Post:has([class*="promoted"])
-www.reddit.com#?#:-abp-has(.XPromoPopupRpl__content)
-www.reddit.com#?#:-abp-has(.promoted)
-
-www.reddit.com##header > div > div > div > div > a[href="/now"]
-
-! 2022-11-04 https://www.reddit.com
-www.reddit.com##.NavFrame > .m-slideIn.XPromoBottomBar
-www.reddit.com##.NavFrame > .XPromoBottomBar > .XPromoBottomBar__container
-
-! 2022-11-04 https://www.reddit.com
-www.reddit.com##.m-animated.XPromoPopup__content
-www.reddit.com##.m-animated.XPromoPopup__overlay
-
-www.reddit.com##body,html:style(overflow:auto!important)
-
-reddit.com###adLinkBar
-! reddit.com##[style^="z-index"]
+!www.reddit.com##.XPromoPopupRpl__content.m-animated
+!www.reddit.com##[class=XPromoPopupRpl__content]
+!www.reddit.com##[class=promoted]
+!www.reddit.com##.size-compact.Post:has([class*="promoted"])
+!www.reddit.com#?#:-abp-has(.XPromoPopupRpl__content)
+!www.reddit.com#?#:-abp-has(.promoted)
+!www.reddit.com##header > div > div > div > div > a[href="/now"]
+!www.reddit.com##.NavFrame > .m-slideIn.XPromoBottomBar
+!www.reddit.com##.NavFrame > .XPromoBottomBar > .XPromoBottomBar__container
+!www.reddit.com##.m-animated.XPromoPopup__content
+!www.reddit.com##.m-animated.XPromoPopup__overlay
+!www.reddit.com##body,html:style(overflow:auto!important)
+!reddit.com###adLinkBar
+!reddit.com##[style^="z-index"]
 
 
 www.linkiesta.it###iol_player_container > div
