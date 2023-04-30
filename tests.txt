@@ -46,6 +46,20 @@ www.reddit.com#?#:-abp-has(.promoted)
 
 www.reddit.com##header > div > div > div > div > a[href="/now"]
 
+! 2022-11-04 https://www.reddit.com
+www.reddit.com##.NavFrame > .m-slideIn.XPromoBottomBar
+www.reddit.com##.NavFrame > .XPromoBottomBar > .XPromoBottomBar__container
+
+! 2022-11-04 https://www.reddit.com
+www.reddit.com##.m-animated.XPromoPopup__content
+www.reddit.com##.m-animated.XPromoPopup__overlay
+
+www.reddit.com##body,html:style(overflow:auto!important)
+
+reddit.com###adLinkBar
+! reddit.com##[style^="z-index"]
+
+
 www.linkiesta.it###iol_player_container > div
 
 www.wired.it##.root
@@ -67,18 +81,9 @@ www.ilfattoquotidiano.it##.visible.social-ab-fixed.social-article-ab
 www.ilfattoquotidiano.it###cc-36040608 > .visible > .cc-adv-wrapper > .cc-adv-label
 www.ilfattoquotidiano.it##.cc-adv-wrapper
 
-! 2022-11-04 https://www.reddit.com
-www.reddit.com##.NavFrame > .m-slideIn.XPromoBottomBar
-www.reddit.com##.NavFrame > .XPromoBottomBar > .XPromoBottomBar__container
 
 ! 2022-11-04 https://m.slashdot.org
 m.slashdot.org##.ad-on.google_ad.story_slot2
-
-! 2022-11-04 https://www.reddit.com
-www.reddit.com##.m-animated.XPromoPopup__content
-www.reddit.com##.m-animated.XPromoPopup__overlay
-
-www.reddit.com##body,html:style(overflow:auto!important)
 
 ! 2022-11-05 https://www.tuttoandroid.net
 www.tuttoandroid.net##.admputop2.black.banner
@@ -267,8 +272,6 @@ forbes.it##.visible.speakup-floating-player-container
 
 www.adnkronos.com##.speakup-floating-player-container
 
-reddit.com###adLinkBar
-
 www.ilsoftware.it##.mobileOnly.re_homebox
 
 ! 2023-03-21 https://www.ilsoftware.it
@@ -279,7 +282,6 @@ www.ilsoftware.it##.mobileOnly.re_homebox
 megaup.net##.socialsider_right_middle.socialsider_fixed.socialsider_bgcolor_white
 !megaup.net##.imgAds
 
-www.reddit.com##[style^="z-index"]
 
 www.ghacks.net##.home-posts.ftd-item
 
