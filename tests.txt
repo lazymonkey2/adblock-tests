@@ -34,23 +34,21 @@ www.reddit.com##.m-animated.XPromoPopup__overlay
 www.reddit.com##.m-active.XPromoPopupRpl
 www.reddit.com##.m-consolidate.XPromoBottomBar
 www.reddit.com##shreddit-experience-tree.theme-beta
-
 www.reddit.com##.XPromoPopupRpl__content.m-animated
 www.reddit.com##[class=XPromoPopupRpl__content]
 www.reddit.com##[class=promoted]
+www.reddit.com##header > div > div > div > div > a[href="/now"]
+www.reddit.com##.NavFrame > .m-slideIn.XPromoBottomBar
+www.reddit.com##.NavFrame > .XPromoBottomBar > .XPromoBottomBar__container
+www.reddit.com##.m-animated.XPromoPopup__content
+www.reddit.com##.m-animated.XPromoPopup__overlay
+www.reddit.com##body,html:style(overflow:auto!important)
+www.reddit.com###adLinkBar
+www.reddit.com##[style^="z-index"]
+
 !www.reddit.com##.size-compact.Post:has([class*="promoted"])
 !www.reddit.com#?#:-abp-has(.XPromoPopupRpl__content)
 !www.reddit.com#?#:-abp-has(.promoted)
-
-!www.reddit.com##header > div > div > div > div > a[href="/now"]
-!www.reddit.com##.NavFrame > .m-slideIn.XPromoBottomBar
-!www.reddit.com##.NavFrame > .XPromoBottomBar > .XPromoBottomBar__container
-!www.reddit.com##.m-animated.XPromoPopup__content
-!www.reddit.com##.m-animated.XPromoPopup__overlay
-!www.reddit.com##body,html:style(overflow:auto!important)
-!reddit.com###adLinkBar
-!reddit.com##[style^="z-index"]
-
 
 www.linkiesta.it###iol_player_container > div
 
