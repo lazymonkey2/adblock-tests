@@ -22,6 +22,7 @@ m.slashdot.org##.ad-on.river_bottom
 m.slashdot.org###river_bottom
 
 slashdot.org###announcement
+slashdot.org##div[id="announcement"]
 
 www.reddit.com##body,html:style(overflow:auto!important)
 www.reddit.com##.m-blurred:style(filter:none !important;)
