@@ -17,6 +17,10 @@
 ||hwupgrade.it/css/img/evidenza-chiusura.png
 ||hwupgrade.it/css/img/background-png-50-10x10.png
 
+||gaming.hwupgrade.it/css/img/evidenza-bg-full.jpg
+||gaming.hwupgrade.it/css/img/evidenza-chiusura.png
+||gaming.hwupgrade.it/css/img/background-png-50-10x10.png
+
 m.slashdot.org##.close-ad
 m.slashdot.org##.ad-on.river_bottom
 m.slashdot.org###river_bottom
