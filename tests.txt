@@ -52,7 +52,9 @@ www.reddit.com#?#:-abp-has(.promoted)
 www.reddit.com##.promotedlink
 www.reddit.com##[class=promotedlink]
 
-reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
+!reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
+old.reddit.com##.comment[data-author="AutoModerator"]
+reddit.com##.comment[data-author="AutoModerator"]
 
 www.linkiesta.it###iol_player_container > div
 
