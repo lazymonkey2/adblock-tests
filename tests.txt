@@ -28,6 +28,11 @@ m.slashdot.org###river_bottom
 slashdot.org###announcementText
 slashdot.org###announcement
 
+!reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
+!old.reddit.com##.comment[data-author="AutoModerator"]
+!reddit.com##.comment[data-author="AutoModerator"]
+reddit.com##.comment.author[href="https://old.reddit.com/user/AutoModerator"]:upward(.comment)
+
 www.reddit.com##body,html:style(overflow:auto!important)
 www.reddit.com##.m-blurred:style(filter:none !important;)
 www.reddit.com##.m-consolidate.XPromoBottomBar
@@ -51,10 +56,6 @@ www.reddit.com#?#:-abp-has(.promoted)
 !www.reddit.com#?#:-abp-has(.XPromoPopupRpl__content)
 www.reddit.com##.promotedlink
 www.reddit.com##[class=promotedlink]
-
-!reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
-old.reddit.com##.comment[data-author="AutoModerator"]
-reddit.com##.comment[data-author="AutoModerator"]
 
 www.linkiesta.it###iol_player_container > div
 
