@@ -21,13 +21,6 @@
 ||gaming.hwupgrade.it/css/img/evidenza-chiusura.png
 ||gaming.hwupgrade.it/css/img/background-png-50-10x10.png
 
-m.slashdot.org##.close-ad
-m.slashdot.org##.ad-on.river_bottom
-m.slashdot.org###river_bottom
-
-slashdot.org###announcementText
-slashdot.org###announcement
-
 !reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
 !old.reddit.com##.comment[data-author="AutoModerator"]
 !reddit.com##.comment[data-author="AutoModerator"]
@@ -56,6 +49,13 @@ www.reddit.com#?#:-abp-has(.promoted)
 !www.reddit.com#?#:-abp-has(.XPromoPopupRpl__content)
 www.reddit.com##.promotedlink
 www.reddit.com##[class=promotedlink]
+
+m.slashdot.org##.close-ad
+m.slashdot.org##.ad-on.river_bottom
+m.slashdot.org###river_bottom
+
+slashdot.org###announcementText
+slashdot.org###announcement
 
 www.linkiesta.it###iol_player_container > div
 
