@@ -419,3 +419,23 @@ www.google.com##.nav.nav-tabs > li:nth-of-type(2) > a > .fas.fa-spinner.fa-pulse
 bing.com##body,html:style(overflow:auto!important)
 
 www.leggo.it##body,html:style(overflow:auto!important)
+
+
+! 2023-06-18 https://www.ilpost.it
+www.ilpost.it###maxticker
+
+! 2023-06-25 https://outlook.live.com
+@@||res-h3.public.cdn.office.net/owamail/*$script,domain=outlook.live.com
+@@||res-h3.public.cdn.office.net/owamail/*$xhr,domain=outlook.live.com
+
+! 2023-07-07 https://preview.redd.it
+preview.redd.it##shreddit-async-loader:nth-of-type(2)
+
+!reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
+
+! 2023-07-19 https://www.youtube.com
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-large-round.ytp-ce-video.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-large-round.ytp-ce-video.ytp-ce-element
+
+www.ilmessaggero.it##body,html:style(overflow:auto!important)
+
