@@ -439,4 +439,4 @@ www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-c
 
 www.ilmessaggero.it##body,html:style(overflow:auto!important)
 
-milano.corriere.it##.wrapper.manine-page-view
+corriere.it##.wrapper.manine-page-view
