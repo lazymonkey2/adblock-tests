@@ -425,8 +425,8 @@ www.leggo.it##body,html:style(overflow:auto!important)
 www.ilpost.it###maxticker
 
 ! 2023-06-25 https://outlook.live.com
-@@||res-h3.public.cdn.office.net/owamail/*$script,domain=outlook.live.com
-@@||res-h3.public.cdn.office.net/owamail/*$xhr,domain=outlook.live.com
+#@@||res-h3.public.cdn.office.net/owamail/*$script,domain=outlook.live.com
+#@@||res-h3.public.cdn.office.net/owamail/*$xhr,domain=outlook.live.com
 
 ! 2023-07-07 https://preview.redd.it
 preview.redd.it##shreddit-async-loader:nth-of-type(2)
