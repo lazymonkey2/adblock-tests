@@ -82,9 +82,6 @@ www.ilfattoquotidiano.it##.cc-adv-wrapper
 ! 2022-11-04 https://m.slashdot.org
 m.slashdot.org##.ad-on.google_ad.story_slot2
 
-! 2022-11-05 https://www.tuttoandroid.net
-www.tuttoandroid.net##.admputop2.black.banner
-
 ! 2022-11-05 https://www.fanpage.it
 www.fanpage.it##.fp_header__notification-tooltip
 www.fanpage.it##.fp_underfollow--no-media.js_underfollow.fp_underfollow--active.fp_underfollow--default.fp_underfollow
@@ -440,6 +437,9 @@ www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-c
 www.ilmessaggero.it##body,html:style(overflow:auto!important)
 
 corriere.it##.wrapper.manine-page-view
+
+! 2022-11-05 https://www.tuttoandroid.net
+www.tuttoandroid.net##.admputop2.black.banner
 
 #tuttoandroid.net###ta-adblock-modal
 #tuttoandroid.net##.ta-adblock-modal-open.with-blur
