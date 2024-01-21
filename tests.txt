@@ -440,3 +440,5 @@ www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-c
 www.ilmessaggero.it##body,html:style(overflow:auto!important)
 
 corriere.it##.wrapper.manine-page-view
+
+tuttoandroid.net###ta-adblock-modal
