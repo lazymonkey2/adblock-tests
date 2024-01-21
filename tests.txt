@@ -443,4 +443,4 @@ corriere.it##.wrapper.manine-page-view
 
 #tuttoandroid.net###ta-adblock-modal
 #tuttoandroid.net##.ta-adblock-modal-open.with-blur
-
+tuttoandroid.net##.banner.black.admputop2
