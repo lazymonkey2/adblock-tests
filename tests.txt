@@ -441,6 +441,6 @@ www.ilmessaggero.it##body,html:style(overflow:auto!important)
 
 corriere.it##.wrapper.manine-page-view
 
-tuttoandroid.net###ta-adblock-modal
-tuttoandroid.net##.ta-adblock-modal-open.with-blur
+#tuttoandroid.net###ta-adblock-modal
+#tuttoandroid.net##.ta-adblock-modal-open.with-blur
 
