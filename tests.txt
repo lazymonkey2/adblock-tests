@@ -26,7 +26,7 @@ reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upw
 !reddit.com##.comment[data-author="AutoModerator"]
 reddit.com##.comment.author[href="https://old.reddit.com/user/AutoModerator"]:upward(.comment)
 
-www.reddit.com##relative.w-full.box-border.text-center.px-md.pt-md.pb-xl
+!www.reddit.com##relative.w-full.box-border.text-center.px-md.pt-md.pb-xl
 www.reddit.com##body,html:style(overflow:auto!important)
 www.reddit.com##.m-blurred:style(filter:none !important;)
 www.reddit.com##.m-consolidate.XPromoBottomBar
