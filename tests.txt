@@ -25,6 +25,8 @@ ilfattoquotidiano.it##.i-amphtml-new-loader
 !ilfattoquotidiano.it##div[class*="amphtml-new-loader"]
 !ilfattoquotidiano.it##.amp-active
 
+ansa.it##.i-amphtml-new-loader
+
 ilsole24ore.com##body,html:style(overflow:auto!important)
 
 reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
