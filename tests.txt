@@ -27,6 +27,7 @@ hdblog.it##.blz_affiliation_disclaimer
 
 tuttoandroid.net##.i-amphtml-new-loader
 
+ilfattoquotidiano.it##.fq-extra-pushbar__content
 ilfattoquotidiano.it##.i-amphtml-new-loader
 !ilfattoquotidiano.it##div[class*="amphtml-new-loader"]
 !ilfattoquotidiano.it##.amp-active
