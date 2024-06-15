@@ -1,5 +1,7 @@
 ! my personal experimentations in ads blocking.
 
+today.it##.i-amphtml-consent-ui-placeholder
+
 ghacks.net##marfeel-flowcards
 
 hdblog.it##.blz_affiliation_disclaimer
