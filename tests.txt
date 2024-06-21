@@ -3,10 +3,10 @@
 today.it##.i-amphtml-consent-ui-placeholder
 
 ghacks.net##marfeel-flowcards
+ghacks.net##.home-posts.ftd-item
 
 hdblog.it##.blz_affiliation_disclaimer
 
-! 2022-02-18 https://m.slashdot.org
 ||a.fsdn.com/sd/m/assets/white_background2X.png$image
 ||a.fsdn.com/sd/m/assets/light_background2X.png$image
 ||a.fsdn.com/sd/m/assets/dark_background2X.png$image
@@ -17,10 +17,6 @@ hdblog.it##.blz_affiliation_disclaimer
 
 ||www.ansa.it/sito/img/black_gradient.png$image
 
-||www.hwupgrade.it/css/img/evidenza-bg-full.jpg
-||www.hwupgrade.it/css/img/evidenza-chiusura.png
-||www.hwupgrade.it/css/img/background-png-50-10x10.png
-
 ||hwupgrade.it/css/img/evidenza-bg-full.jpg
 ||hwupgrade.it/css/img/evidenza-chiusura.png
 ||hwupgrade.it/css/img/background-png-50-10x10.png
@@ -29,275 +25,187 @@ hdblog.it##.blz_affiliation_disclaimer
 ||gaming.hwupgrade.it/css/img/evidenza-chiusura.png
 ||gaming.hwupgrade.it/css/img/background-png-50-10x10.png
 
-tuttoandroid.net##.i-amphtml-new-loader
 
 ilfattoquotidiano.it##.fq-extra-pushbar__content
 ilfattoquotidiano.it##.i-amphtml-new-loader
 !ilfattoquotidiano.it##div[class*="amphtml-new-loader"]
 !ilfattoquotidiano.it##.amp-active
+ilfattoquotidiano.it##.article-ifq-desc-bottom-pro-sostenitore > div
+ilfattoquotidiano.it##.visible.social-ab-fixed.social-article-ab
+ilfattoquotidiano.it###cc-36040608 > .visible > .cc-adv-wrapper > .cc-adv-label
+ilfattoquotidiano.it##.cc-adv-wrapper
+ilfattoquotidiano.it##.ovl-noconsent__wrapper
+ilfattoquotidiano.it##.ovl-noconsent__blur
+ilfattoquotidiano.it##.ovl-noconsent
+ilfattoquotidiano.it##.article-wrapper > div:nth-of-type(1)
+ilfattoquotidiano.it##.articlewrapper > div:nth-of-type(1)
+ilfattoquotidiano.it##.ifq-dfp.widget
+ilfattoquotidiano.it##.i-amphtml-layout.i-amphtml-error.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed
+ilfattoquotidiano.it##.i-amphtml-unresolved.amp-unresolved.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive > i-amphtml-sizer
+ilfattoquotidiano.it##.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive
 
+ilfattoquotidiano.it##.adv-h-100.corporate-navigation
+ilfattoquotidiano.it##.article-ifq-bottom-pro-sostenitore-wrapper-title
+
+
+ansa.it##.i-amphtml-error.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
 ansa.it##.i-amphtml-new-loader
+ansa.it###O_INTERSTITIAL
+ansa.it##.my_adsense
+ansa.it##header > .hidden-tablet.hidden-desktop.adv-phone
 
-ilsole24ore.com##body,html:style(overflow:auto!important)
+quifinanza.it##.widget_eepex
+
+disqus.com###comment-policy
 
 reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
 !old.reddit.com##.comment[data-author="AutoModerator"]
 !reddit.com##.comment[data-author="AutoModerator"]
 reddit.com##.comment.author[href="https://old.reddit.com/user/AutoModerator"]:upward(.comment)
 
-!www.reddit.com##relative.w-full.box-border.text-center.px-md.pt-md.pb-xl
-www.reddit.com##body,html:style(overflow:auto!important)
-www.reddit.com##.m-blurred:style(filter:none !important;)
-www.reddit.com##.m-consolidate.XPromoBottomBar
-www.reddit.com##.NavFrame > .m-slideIn.XPromoBottomBar
-www.reddit.com##.NavFrame > .XPromoBottomBar > .XPromoBottomBar__container
-www.reddit.com##.m-animated.XPromoPopup__content
-www.reddit.com##.m-animated.XPromoPopup__overlay
-www.reddit.com##.m-animated.XPromoPopupRpl__content
-www.reddit.com##.m-animated.XPromoPopupRpl__overlay
-www.reddit.com##.m-active.XPromoPopupRpl
-www.reddit.com##.m-consolidate.XPromoBottomBar
-www.reddit.com##shreddit-experience-tree.theme-beta
-www.reddit.com##.XPromoPopupRpl__content.m-animated
-www.reddit.com##[class=XPromoPopupRpl__content]
-www.reddit.com##[class=promoted]
-www.reddit.com##header > div > div > div > div > a[href="/now"]
-www.reddit.com###adLinkBar
-www.reddit.com##[style^="z-index"]
-www.reddit.com##.size-compact.Post:has([class*="promoted"])
-www.reddit.com#?#:-abp-has(.promoted)
-!www.reddit.com#?#:-abp-has(.XPromoPopupRpl__content)
-www.reddit.com##.promotedlink
-www.reddit.com##[class=promotedlink]
+!reddit.com##relative.w-full.box-border.text-center.px-md.pt-md.pb-xl
+reddit.com##body,html:style(overflow:auto!important)
+reddit.com##.m-blurred:style(filter:none !important;)
+reddit.com##.m-consolidate.XPromoBottomBar
+reddit.com##.NavFrame > .m-slideIn.XPromoBottomBar
+reddit.com##.NavFrame > .XPromoBottomBar > .XPromoBottomBar__container
+reddit.com##.m-animated.XPromoPopup__content
+reddit.com##.m-animated.XPromoPopup__overlay
+reddit.com##.m-animated.XPromoPopupRpl__content
+reddit.com##.m-animated.XPromoPopupRpl__overlay
+reddit.com##.m-active.XPromoPopupRpl
+reddit.com##.m-consolidate.XPromoBottomBar
+reddit.com##shreddit-experience-tree.theme-beta
+reddit.com##.XPromoPopupRpl__content.m-animated
+reddit.com##[class=XPromoPopupRpl__content]
+reddit.com##[class=promoted]
+reddit.com##header > div > div > div > div > a[href="/now"]
+reddit.com###adLinkBar
+reddit.com##[style^="z-index"]
+reddit.com##.size-compact.Post:has([class*="promoted"])
+reddit.com##.promotedlink
+reddit.com##[class=promotedlink]
+reddit.com##.promotedlink
 
-m.slashdot.org##.close-ad
-m.slashdot.org##.ad-on.river_bottom
-m.slashdot.org###river_bottom
+reddit.com#?#:-abp-has(.promoted)
+!reddit.com#?#:-abp-has(.XPromoPopupRpl__content)
 
+! 2023-07-07 https://preview.redd.it
+preview.redd.it##shreddit-async-loader:nth-of-type(2)
+
+!reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
+
+slashdot.org##.close-ad
+slashdot.org##.ad-on.river_bottom
+slashdot.org###river_bottom
+slashdot.org##.ad-on.google_ad.story_slot2
 slashdot.org###announcementText
 slashdot.org###announcement
 
-www.linkiesta.it###iol_player_container > div
+linkiesta.it###iol_player_container > div
+linkiesta.it##.banner-top
+linkiesta.it##.vjs-top-parent-mobile
+linkiesta.it##.iubenda-tp-btn--bottom-left.iubenda-tp-btn
 
-www.wired.it##.root
+wired.it##.root
+wired.it##.cne-interlude.cne
 
-! 2022-11-02 https://www.ilfattoquotidiano.it
-www.ilfattoquotidiano.it##.ovl-noconsent__wrapper
-www.ilfattoquotidiano.it##.ovl-noconsent__blur
-www.ilfattoquotidiano.it##.ovl-noconsent
-
-! 2022-11-03 https://www.ilfattoquotidiano.it
-www.ilfattoquotidiano.it##.adv-h-100.corporate-navigation
-www.ilfattoquotidiano.it##.article-ifq-bottom-pro-sostenitore-wrapper-title
-
-! 2022-11-03 https://www.repubblica.it
-www.repubblica.it###social-share-top
-
-! 2022-11-03 https://www.ilfattoquotidiano.it
-www.ilfattoquotidiano.it##.visible.social-ab-fixed.social-article-ab
-www.ilfattoquotidiano.it###cc-36040608 > .visible > .cc-adv-wrapper > .cc-adv-label
-www.ilfattoquotidiano.it##.cc-adv-wrapper
+repubblica.it##.social-share
+repubblica.it##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
+repubblica.it##.iubenda-tp-btn--bottom-right.iubenda-tp-btn
+repubblica.it##.inline-photo > .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
+repubblica.it###social-share-top
+repubblica.it##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
 
 
-! 2022-11-04 https://m.slashdot.org
-m.slashdot.org##.ad-on.google_ad.story_slot2
+fanpage.it##.fp_header__notification-tooltip
+fanpage.it##.fp_underfollow--no-media.js_underfollow.fp_underfollow--active.fp_underfollow--default.fp_underfollow
+fanpage.it##.js_notification-cta.fp_header__notification
+fanpage.it##.js-smart-collapse.fp_adv-box--odd.fp_adv-box--to-tablet.fp_adv-box--fpmobile_300x250_top.fp_adv-box
+fanpage.it##.js-smart-collapse.fp_adv-box--only-mobile.fp_adv-box--fpmobile_300x250.fp_adv-box
+fanpage.it##.js-smart-collapse.fp_adv-box--only-mobile.fp_adv-box--fpmobile_fplayer.fp_adv-box
+fanpage.it##.js-smart-collapse.fp_adv-box--both.fp_adv-box--fpmobile_300x250_bottom.fp_adv-box
+fanpage.it##.js-smart-collapse.fp_adv-box--odd.fp_adv-box--to-tablet.fp_adv-box--fpmobile_300x250_top.fp_adv-box
+fanpage.it##.js-collapse-anyways.fp_adv-box--to-tablet.fp_adv-box--fpmobile_leadeboard.fp_adv-box
+fanpage.it##.js-smart-collapse.fp_adv-box--only-mobile.fp_adv-box--fpmobile_fplayer.fp_adv-box
+fanpage.it##.oembed-youtube.embed-container
+fanpage.it##.js-smart-collapse.fp_adv-box--only-mobile.fp_adv-box--fpmobile_300x250.fp_adv-box
+fanpage.it##.js-smart-collapse.fp_adv-box--both.fp_adv-box--fpmobile_300x250_bottom.fp_adv-box
+fanpage.it##.embed-container
+fanpage.it##.telegram.fp_adv-box--autopromo.fp_adv-box--both.fp_adv-box--skin.fp_adv-box
 
-! 2022-11-05 https://www.fanpage.it
-www.fanpage.it##.fp_header__notification-tooltip
-www.fanpage.it##.fp_underfollow--no-media.js_underfollow.fp_underfollow--active.fp_underfollow--default.fp_underfollow
-www.fanpage.it##.js_notification-cta.fp_header__notification
-www.fanpage.it##.js-smart-collapse.fp_adv-box--odd.fp_adv-box--to-tablet.fp_adv-box--fpmobile_300x250_top.fp_adv-box
-www.fanpage.it##.js-smart-collapse.fp_adv-box--only-mobile.fp_adv-box--fpmobile_300x250.fp_adv-box
-www.fanpage.it##.js-smart-collapse.fp_adv-box--only-mobile.fp_adv-box--fpmobile_fplayer.fp_adv-box
-www.fanpage.it##.js-smart-collapse.fp_adv-box--both.fp_adv-box--fpmobile_300x250_bottom.fp_adv-box
+ilsole24ore.com##.shrinkable.background-adv
+ilsole24ore.com##.suggbox-content
+ilsole24ore.com##.suggbox-top
+ilsole24ore.com##body,html:style(overflow:auto!important)
+ilsole24ore.com##.sticky-header
 
-! 2022-11-05 https://www.ilsole24ore.com
-www.ilsole24ore.com##.shrinkable.background-adv
-www.ilsole24ore.com##.suggbox-content
-www.ilsole24ore.com##.suggbox-top
-
-! 2023-03-03 https://tecnologia.libero.it
 tecnologia.libero.it##.vjs-top-parent-mobile
-
-! 2023-03-03 https://tecnologia.libero.it
 tecnologia.libero.it##.fixed.share-cont-art
+tecnologia.libero.it##.content-articolo > amp-ad.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.ampad
+tecnologia.libero.it##p > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.ampad
+tecnologia.libero.it##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
+tecnologia.libero.it##body > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.ampad
+tecnologia.libero.it##.amp-wp-meta
+tecnologia.libero.it##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.hp_320x1-p1.hp_320x1
 
-! 2023-03-04 https://www.ansa.it
-www.ansa.it###O_INTERSTITIAL
-www.ansa.it##.my_adsense
 
-www.laleggepertutti.it###cl-shadow-id1 > .is-show-login_body.h-entry.hentry.main-content > .e-content.entry-content.article-content > .article-text-full > .BelowTitle.custom-html-18895.custom-html
+laleggepertutti.it###cl-shadow-id1 > .is-show-login_body.h-entry.hentry.main-content > .e-content.entry-content.article-content > .article-text-full > .BelowTitle.custom-html-18895.custom-html
+laleggepertutti.it###BelowHeaderPlacementWrapper
+laleggepertutti.it##.custom-html-15562.custom-html
+laleggepertutti.it##.custom-html-15563.custom-html
+laleggepertutti.it###lx_678175-1
+laleggepertutti.it###lx_678175-2 > .cl-amp-important-information-title
+laleggepertutti.it##.i-amphtml-unresolved.amp-unresolved.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive > i-amphtml-sizer
 
-www.laleggepertutti.it###BelowHeaderPlacementWrapper
-
-! 2023-03-04 https://www.linkiesta.it
-www.linkiesta.it##.banner-top
-www.linkiesta.it##.vjs-top-parent-mobile
-
-! 2023-03-04 https://greenreport.it
 greenreport.it##.last.first ._iub_cs_activate
 
-disqus.com###comment-policy
-
-! 2021-12-02 https://dailyuploads.net
-dailyuploads.net##[src="https://dailyuploads.net/images/fiverr.png"]
-
-! 2021-12-02 https://sanet.st
-sanet.st##.feature-usnt
-sanet.st##.c-un-link.txtleft.blockSpoiler-content
-sanet.st##.un-link.blockSpoiler
-
-! 2021-12-02 https://nitro.download
-nitro.download###aswift_1_anchor
-nitro.download###aswift_1_expand
-nitro.download##div > .adsbygoogle
-nitro.download##.bad.table2
-nitro.download##.good.table2
-
-! 2021-12-04 https://userupload.in
-userupload.in##.mb-4.aboutFile.col-md-12.col-lg-6
-userupload.in###aswift_3_anchor
-userupload.in###aswift_3_expand
-userupload.in##div.col-md-12.col-lg-6 > .adsbygoogle
-
-! 2021-12-08 https://www.ilfattoquotidiano.it
-www.ilfattoquotidiano.it##.article-ifq-desc-bottom-pro-sostenitore > div
-
-! 2022-01-05 https://uploadgig.com
-uploadgig.com##div.priceBox.col-md-3.col-sm-6:nth-of-type(n-1)
-
-! 2022-01-09 https://www.msn.com
 www.msn.com##.ot-fade-in.onetrust-pc-dark-filter
 
-! 2022-01-12 https://turbobit.net
-||turbobit.net/pmbzqa/fd1_ny_free_2022_it.gif$image
-
-! 2022-01-31 https://9to5google.com
 !9to5google.com##.author_ad.adsbygoogle
 ##.author_ad.adsbygoogle
 
-! 2022-02-17 https://mixdrop.co
-#@@||code.jquery.com/ui/1.12.1/jquery-ui.min.js$script,domain=mixdrop.co
-#@@||code.jquery.com/jquery-3.3.1.min.js$script,domain=mixdrop.co
+corriere.it##.sticky-video.rcs-video.embedVideo.custom-video-sticky.player
+corriere.it##.bck-box-newsletter
+corriere.it##.wrapper.manine-page-view
 
-! 2022-02-27 https://www.corriere.it
-www.corriere.it##.sticky-video.rcs-video.embedVideo.custom-video-sticky.player
-www.corriere.it##.bck-box-newsletter
+ggmania.com##td > center
 
-! 2022-02-28 https://drop.download
-drop.download###aswift_0_anchor
-drop.download###aswift_0_expand
-drop.download##.col-md-12 > div > .adsbygoogle
+sammyfans.com###aswift_0_anchor
+sammyfans.com###aswift_0_expand
+sammyfans.com###mvp-leader-wrap > .adsbygoogle
 
-! 2022-03-06 https://www.ggmania.com
-www.ggmania.com##td > center
-
-! 2022-03-13 https://www.sammyfans.com
-www.sammyfans.com###aswift_0_anchor
-www.sammyfans.com###aswift_0_expand
-www.sammyfans.com###mvp-leader-wrap > .adsbygoogle
-
-! 2022-03-26 https://addons.mozilla.org
-addons.mozilla.org##.GetFirefoxButton-callout
-
-! 2022-03-29 https://addons.mozilla.org
-addons.mozilla.org##.Notice-dismissible.GetFirefoxBanner.Notice-warning.Notice
-
-! 2022-03-30 https://support.mozilla.org
-support.mozilla.org###id_scam_alert > .content
-
-! 2022-03-30 https://www.skidrowcodex.net
-www.skidrowcodex.net##[href="#CHECK-UPDATE"] > .fa-lg.fa-pulse.fa-spinner.fas
-www.skidrowcodex.net##div.blog-info .fa-lg.fa-pulse.fa-spinner.fas
-
-! 2023-03-04 https://greenreport.it
 greenreport.it##.last.first ._iub_cs_activate
 
-! 2023-03-05 https://www.fanpage.it
-www.fanpage.it##.js-smart-collapse.fp_adv-box--odd.fp_adv-box--to-tablet.fp_adv-box--fpmobile_300x250_top.fp_adv-box
+tomshw.it##.bottom_bar_fixed
 
-www.fanpage.it##.js-collapse-anyways.fp_adv-box--to-tablet.fp_adv-box--fpmobile_leadeboard.fp_adv-box
 
-www.fanpage.it##.js-smart-collapse.fp_adv-box--only-mobile.fp_adv-box--fpmobile_fplayer.fp_adv-box
-
-www.fanpage.it##.oembed-youtube.embed-container
-
-www.fanpage.it##.js-smart-collapse.fp_adv-box--only-mobile.fp_adv-box--fpmobile_300x250.fp_adv-box
-
-www.fanpage.it##.js-smart-collapse.fp_adv-box--both.fp_adv-box--fpmobile_300x250_bottom.fp_adv-box
-
-www.fanpage.it##.embed-container
-
-www.tomshw.it##.bottom_bar_fixed
-
-www.skidrowcodex.net##.nav.nav-tabs > li:nth-of-type(2) > a > .fas.fa-spinner.fa-pulse.fa-lg
-
-www.skidrowcodex.net##div.blog-info:nth-of-type(5) > strong > span:nth-of-type(1) > .fas.fa-spinner.fa-pulse.fa-lg
-
-nitroflare.com###popupContent > [href*="payment"] > [src*="img/welcome2purchase.png?v=1.0.0"]
-nitroflare.com###superbox-innerbox
-nitroflare.com###superbox-container
-nitroflare.com###superbox-wrapper
-nitroflare.com###superbox-overlay
-
-1fichier.com##.ui-dialog.ui-corner-all.ui-widget.ui-widget-content.ui-front
-
-disqus.com###comment-policy
-
-www.ilfattoquotidiano.it##.article-wrapper > div:nth-of-type(1)
-
-! 2023-03-09 https://www.ilfattoquotidiano.it
-www.ilfattoquotidiano.it##.ifq-dfp.widget
-
-! 2023-03-09 https://www.corriere.it
-www.corriere.it##div.bck-adv > .is-mr-b-20.bck-adv
-
-www.corriere.it###rcsad_Bottom1
-
-www.corriere.it##.footer-article > .bck-adv > .is--large.adv__content
+corriere.it##div.bck-adv > .is-mr-b-20.bck-adv
+corriere.it###rcsad_Bottom1
+corriere.it##.footer-article > .bck-adv > .is--large.adv__content
 
 9gag.com##article:has(.promoted)
 
-! 2023-03-10 https://www.startmag.it
-www.startmag.it##.ads
+startmag.it##.ads
 
-! 2023-03-10 https://www.milanotoday.it
-www.milanotoday.it##.svp-video-preroll.svp
+milanotoday.it##.svp-video-preroll.svp
 
 javascript.plainenglish.io##body > div:nth-of-type(2)
 
-www.ilfattoquotidiano.it##.articlewrapper > div:nth-of-type(1)
-
-! 2023-03-15 https://www.ilsole24ore.com
-www.ilsole24ore.com##.sticky-header
-
 medium.com##body > div:nth-of-type(2)
 
-www.investireoggi.it##.evobrid-iframe-container
+investireoggi.it##.evobrid-iframe-container
 
-www.corriere.it##.sticky-video.rcs-video.embedVideo.custom-video-sticky.player
-www.corriere.it##.bck-box-newsletter
+corriere.it##.sticky-video.rcs-video.embedVideo.custom-video-sticky.player
+corriere.it##.bck-box-newsletter
 
-#outlook.live.com##[aria-label="Navigation pane"] > div > div > div:last-child
-#outlook.live.com##[aria-label="Riquadro di spostamento"] > div > div > div:last-child
-
-! 2023-03-15 https://forbes.it
 forbes.it##.visible.speakup-floating-player-container
 
-www.adnkronos.com##.speakup-floating-player-container
+adnkronos.com##.speakup-floating-player-container
 
-www.ilsoftware.it##.mobileOnly.re_homebox
+ilsoftware.it##.mobileOnly.re_homebox
+||ilsoftware.it/images/gr994bg.png$image
 
-! 2023-03-21 https://www.ilsoftware.it
-||www.ilsoftware.it/images/gr994bg.png$image
-
-!www.letmeread.net###accesswarning
-
-megaup.net##.socialsider_right_middle.socialsider_fixed.socialsider_bgcolor_white
-!megaup.net##.imgAds
-
-
-www.ghacks.net##.home-posts.ftd-item
 
 gizchina.it##.mrf-customBanner
 gizchina.it###mrf-details
@@ -309,160 +217,84 @@ macitynet.it##.td-a-rec.td-a-rec-id-content_bottom_mob
 macitynet.it##.td-a-rec.td-a-rec-id-footer_mob
 macitynet.it##.td-a-rec.td-a-rec-id-loop_mob
 
-! 2023-04-06 https://www.wired.it
-www.wired.it##.cne-interlude.cne
 
-! 2023-04-06 https://www.vaielettrico.it
-www.vaielettrico.it###evobrid-container-box > div
-www.vaielettrico.it##.amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-intrinsic.amp-wp-enforced-sizes.wp-image-108801.size-full.aligncenter
+vaielettrico.it###evobrid-container-box > div
+vaielettrico.it##.amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-intrinsic.amp-wp-enforced-sizes.wp-image-108801.size-full.aligncenter
 
-! 2023-04-06 https://tecnologia.libero.it
-tecnologia.libero.it##.content-articolo > amp-ad.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.ampad
-tecnologia.libero.it##p > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.ampad
-tecnologia.libero.it##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
-tecnologia.libero.it##body > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.ampad
-tecnologia.libero.it##.amp-wp-meta
-
-! 2023-04-07 https://www.ansa.it
-www.ansa.it##.i-amphtml-error.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
-
-! 2023-04-07 https://tg24.sky.it
 tg24.sky.it##.j-player-carousel-element.u-video-sticky
 tg24.sky.it##.s-adv-top--m.advContainer
 
-! 2023-04-08 https://tecnologia.libero.it
-tecnologia.libero.it##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.hp_320x1-p1.hp_320x1
+dday.it##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.twitter-tweet
 
-! 2023-04-08 https://www.dday.it
-www.dday.it##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.twitter-tweet
+!bing.com##div.b_subModule:nth-of-type(3)
 
-! 2023-04-10 https://www.bing.com
-www.bing.com##div.b_subModule:nth-of-type(3)
-
-! 2023-04-12 https://www.ilfattoquotidiano.it
-www.ilfattoquotidiano.it##.i-amphtml-layout.i-amphtml-error.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed
-
-! 2023-04-12 https://primapavia.it
 primapavia.it##.evobrid-iframe-container
 
-! 2023-04-15 https://amp.tio.ch
 amp.tio.ch##.wideboard.ad
 amp.tio.ch##div.rectangle.ad:nth-of-type(6)
 amp.tio.ch##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-nodisplay.i-amphtml-element
 amp.tio.ch##.middlerect.ad
 amp.tio.ch##.monsterboard.ad
 
-! 2023-04-15 https://www.ilfattoquotidiano.it
-www.ilfattoquotidiano.it##.i-amphtml-unresolved.amp-unresolved.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive > i-amphtml-sizer
 
-! 2023-04-17 https://www.leggo.it
-www.leggo.it##.generic_embed
-www.leggo.it##.adv_skin_container
+leggo.it##.generic_embed
+leggo.it##.adv_skin_container
 
-! 2023-04-21 https://www.badtaste.it
-www.badtaste.it##.jw-floating-dragged.jw-reset.jw-wrapper
-www.badtaste.it##.middlewall.shortcode.premium-content-block > .inner
-www.badtaste.it##.jw-reset.jw-wrapper
-www.badtaste.it##.bad-twitch-player
-www.badtaste.it##.site-border-color.notifications.omega.grid_4.no_mobile_margin
-www.badtaste.it##.site-border-color.notifications.last-box.alpha.grid_4.no_mobile_margin
+badtaste.it##.jw-floating-dragged.jw-reset.jw-wrapper
+badtaste.it##.middlewall.shortcode.premium-content-block > .inner
+badtaste.it##.jw-reset.jw-wrapper
+badtaste.it##.bad-twitch-player
+badtaste.it##.site-border-color.notifications.omega.grid_4.no_mobile_margin
+badtaste.it##.site-border-color.notifications.last-box.alpha.grid_4.no_mobile_margin
 
-! 2023-04-22 https://www.huffingtonpost.it
-www.huffingtonpost.it###advHook-Middle1
+huffingtonpost.it###advHook-Middle1
 
-! 2023-04-22 https://milano.repubblica.it
-milano.repubblica.it##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
 
-! 2023-04-22 https://www.tomshw.it
-www.tomshw.it##.hide_desktop > .bx_2.bx.det_hardware.edinet_adv_container
-www.tomshw.it##.mob_bx_.mob_bx.det_hardware.edinet_adv_container
+tomshw.it##.hide_desktop > .bx_2.bx.det_hardware.edinet_adv_container
+tomshw.it##.mob_bx_.mob_bx.det_hardware.edinet_adv_container
+tomshw.it##.mob_bx_.mob_bx.det_videogioco.edinet_adv_container
+tomshw.it##.hide_desktop > .bx_2.bx.det_videogioco.edinet_adv_container
+tomshw.it##.hide_desktop > .bx_3.bx.det_videogioco.edinet_adv_container
+tomshw.it##.mob_bx_.mob_bx.det_altro.edinet_adv_container
+tomshw.it##.hide_desktop > .bx_2.bx.det_altro.edinet_adv_container
+tomshw.it##.hide_desktop > .bx_3.bx.det_altro.edinet_adv_container
+tomshw.it##.mob_bx_.mob_bx.det_automotive.edinet_adv_container
+tomshw.it##.hide_desktop > .bx_2.bx.det_automotive.edinet_adv_container
+tomshw.it##.hide_desktop > .bx_3.bx.det_automotive.edinet_adv_container
 
-! 2023-04-23 https://www.tomshw.it
-www.tomshw.it##.mob_bx_.mob_bx.det_videogioco.edinet_adv_container
-www.tomshw.it##.hide_desktop > .bx_2.bx.det_videogioco.edinet_adv_container
-www.tomshw.it##.hide_desktop > .bx_3.bx.det_videogioco.edinet_adv_container
-www.tomshw.it##.mob_bx_.mob_bx.det_altro.edinet_adv_container
-www.tomshw.it##.hide_desktop > .bx_2.bx.det_altro.edinet_adv_container
-www.tomshw.it##.hide_desktop > .bx_3.bx.det_altro.edinet_adv_container
 
-! 2023-04-23 https://www.fanpage.it
-www.fanpage.it##.telegram.fp_adv-box--autopromo.fp_adv-box--both.fp_adv-box--skin.fp_adv-box
+businessonline.it##div.gptslot:nth-of-type(1)
+businessonline.it##div.gptslot:nth-of-type(2)
+businessonline.it##div.gptslot:nth-of-type(3)
+businessonline.it##div.gptslot:nth-of-type(6)
+businessonline.it##div.gptslot:nth-of-type(7)
+businessonline.it###frame471 > .bannerEXMP
+businessonline.it###frame472 > .bannerEXMP
+businessonline.it###frame473 > .bannerEXMP
+businessonline.it###frame474 > .bannerEXMP
 
-! 2023-04-23 https://www.tomshw.it
-www.tomshw.it##.mob_bx_.mob_bx.det_automotive.edinet_adv_container
-www.tomshw.it##.hide_desktop > .bx_2.bx.det_automotive.edinet_adv_container
-www.tomshw.it##.hide_desktop > .bx_3.bx.det_automotive.edinet_adv_container
-
-! 2023-04-23 https://www.ilfattoquotidiano.it
-www.ilfattoquotidiano.it##.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive
-
-! 2023-04-23 https://www.repubblica.it
-www.repubblica.it##.social-share
-www.repubblica.it##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
-www.repubblica.it##.iubenda-tp-btn--bottom-right.iubenda-tp-btn
-www.repubblica.it##.inline-photo > .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element
-
-! 2023-04-23 https://www.ansa.it
-www.ansa.it##header > .hidden-tablet.hidden-desktop.adv-phone
-
-! 2023-04-23 https://quifinanza.it
-quifinanza.it##.widget_eepex
-
-! 2023-04-23 https://www.linkiesta.it
-www.linkiesta.it##.iubenda-tp-btn--bottom-left.iubenda-tp-btn
-
-! 2023-04-23 https://www.businessonline.it
-www.businessonline.it##div.gptslot:nth-of-type(1)
-www.businessonline.it##div.gptslot:nth-of-type(2)
-www.businessonline.it##div.gptslot:nth-of-type(3)
-www.businessonline.it##div.gptslot:nth-of-type(6)
-www.businessonline.it##div.gptslot:nth-of-type(7)
-www.businessonline.it###frame471 > .bannerEXMP
-www.businessonline.it###frame472 > .bannerEXMP
-www.businessonline.it###frame473 > .bannerEXMP
-www.businessonline.it###frame474 > .bannerEXMP
-
-! 2023-04-23 https://www.laleggepertutti.it
-www.laleggepertutti.it##.custom-html-15562.custom-html
-www.laleggepertutti.it##.custom-html-15563.custom-html
-www.laleggepertutti.it###lx_678175-1
-www.laleggepertutti.it###lx_678175-2 > .cl-amp-important-information-title
-www.laleggepertutti.it##.i-amphtml-unresolved.amp-unresolved.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive > i-amphtml-sizer
-
-www.skidrowcodex.net##.nav.nav-tabs > li:nth-of-type(2) > a > .fas.fa-spinner.fa-pulse.fa-lg
-
-www.google.com##.nav.nav-tabs > li:nth-of-type(2) > a > .fas.fa-spinner.fa-pulse.fa-lg
+!www.google.com##.nav.nav-tabs > li:nth-of-type(2) > a > .fas.fa-spinner.fa-pulse.fa-lg
 
 bing.com##body,html:style(overflow:auto!important)
 
-www.leggo.it##body,html:style(overflow:auto!important)
+leggo.it##body,html:style(overflow:auto!important)
 
-
-! 2023-06-18 https://www.ilpost.it
-www.ilpost.it###maxticker
+ilpost.it###maxticker
 
 ! 2023-06-25 https://outlook.live.com
 #@@||res-h3.public.cdn.office.net/owamail/*$script,domain=outlook.live.com
 #@@||res-h3.public.cdn.office.net/owamail/*$xhr,domain=outlook.live.com
 
-! 2023-07-07 https://preview.redd.it
-preview.redd.it##shreddit-async-loader:nth-of-type(2)
-
-!reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
-
 ! 2023-07-19 https://www.youtube.com
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-large-round.ytp-ce-video.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-large-round.ytp-ce-video.ytp-ce-element
+!www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-large-round.ytp-ce-video.ytp-ce-element
+!www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-large-round.ytp-ce-video.ytp-ce-element
 
-www.ilmessaggero.it##body,html:style(overflow:auto!important)
+ilmessaggero.it##body,html:style(overflow:auto!important)
 
-corriere.it##.wrapper.manine-page-view
-
-! 2022-11-05 https://www.tuttoandroid.net
-www.tuttoandroid.net##.admputop2.black.banner
-
+tuttoandroid.net##.admputop2.black.banner
 #tuttoandroid.net###ta-adblock-modal
 #tuttoandroid.net##.ta-adblock-modal-open.with-blur
-
 tuttoandroid.net###admputop2
 tuttoandroid.net##.banner.black.admputop2
+tuttoandroid.net##.i-amphtml-new-loader
+
