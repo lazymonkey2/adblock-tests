@@ -83,7 +83,6 @@ reddit.com##header > div > div > div > div > a[href="/now"]
 reddit.com###adLinkBar
 reddit.com##[style^="z-index"]
 reddit.com##.size-compact.Post:has([class*="promoted"])
-reddit.com##.promotedlink
 reddit.com##[class=promotedlink]
 reddit.com##.promotedlink
 
@@ -100,6 +99,9 @@ reddit.com##xpromo-app-selector
 reddit.com##shreddit-ad-post
 reddit.com##shreddit-with-observer-wrapper
 reddit.com##.in-feed-ad
+reddit.com##shreddit-dynamic-ad-link
+
+reddit.com##a[rel$="sponsored"]
 
 
 slashdot.org##.close-ad
