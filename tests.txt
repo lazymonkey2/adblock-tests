@@ -93,6 +93,8 @@ reddit.com#?#:-abp-has(.promoted)
 ! 2023-07-07 https://preview.redd.it
 preview.redd.it##shreddit-async-loader:nth-of-type(2)
 
+reddit.com##relative.w-full.box-border.text-center.px-md.pt-md.pb-xl
+
 !reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
 
 slashdot.org##.close-ad
