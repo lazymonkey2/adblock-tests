@@ -98,6 +98,9 @@ preview.redd.it##shreddit-async-loader:nth-of-type(2)
 reddit.com##relative.w-full.box-border.text-center.px-md.pt-md.pb-xl
 reddit.com##xpromo-app-selector
 reddit.com##shreddit-ad-post
+reddit.com##shreddit-with-observer-wrapper
+reddit.com##.in-feed-ad
+
 
 slashdot.org##.close-ad
 slashdot.org##.ad-on.river_bottom
