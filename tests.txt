@@ -1,5 +1,7 @@
 ! my personal experimentations in ads blocking.
 
+stackoverflow.com##.signup-dialog-container
+
 today.it##.i-amphtml-consent-ui-placeholder
 
 ghacks.net##marfeel-flowcards
