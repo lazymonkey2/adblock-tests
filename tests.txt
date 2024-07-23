@@ -18,15 +18,21 @@ hdblog.it##.blz_affiliation_disclaimer
 ||a.fsdn.com/sd/m/assets/light_background2X.webp$image
 ||a.fsdn.com/sd/m/assets/dark_background2X.webp$image
 
-||www.ansa.it/sito/img/black_gradient.png$image
-
 ||hwupgrade.it/css/img/evidenza-bg-full.jpg
 ||hwupgrade.it/css/img/evidenza-chiusura.png
 ||hwupgrade.it/css/img/background-png-50-10x10.png
 
-||gaming.hwupgrade.it/css/img/evidenza-bg-full.jpg
-||gaming.hwupgrade.it/css/img/evidenza-chiusura.png
-||gaming.hwupgrade.it/css/img/background-png-50-10x10.png
+!||gaming.hwupgrade.it/css/img/evidenza-bg-full.jpg
+!||gaming.hwupgrade.it/css/img/evidenza-chiusura.png
+!||gaming.hwupgrade.it/css/img/background-png-50-10x10.png
+
+
+||www.ansa.it/sito/img/black_gradient.png$image
+ansa.it##.i-amphtml-error.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+ansa.it##.i-amphtml-new-loader
+ansa.it###O_INTERSTITIAL
+ansa.it##.my_adsense
+ansa.it##header > .hidden-tablet.hidden-desktop.adv-phone
 
 
 ilfattoquotidiano.it##.fq-extra-pushbar__content
@@ -50,16 +56,10 @@ ilfattoquotidiano.it##.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-ampht
 ilfattoquotidiano.it##.adv-h-100.corporate-navigation
 ilfattoquotidiano.it##.article-ifq-bottom-pro-sostenitore-wrapper-title
 
-
-ansa.it##.i-amphtml-error.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
-ansa.it##.i-amphtml-new-loader
-ansa.it###O_INTERSTITIAL
-ansa.it##.my_adsense
-ansa.it##header > .hidden-tablet.hidden-desktop.adv-phone
-
 quifinanza.it##.widget_eepex
 
 disqus.com###comment-policy
+
 
 reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
 !old.reddit.com##.comment[data-author="AutoModerator"]
