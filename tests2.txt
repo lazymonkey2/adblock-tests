@@ -16,5 +16,5 @@
 !ansa.it##body,html:style(overflow:auto!important)
 
 reddit.com##shreddit-async-loader
-reddit.com##body,html:style(overflow:auto!important)
+!reddit.com##body,html:style(overflow:auto!important)
 
