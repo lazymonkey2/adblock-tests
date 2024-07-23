@@ -8,8 +8,10 @@
 ||a.fsdn.com/sd/m/assets/light_background2X.webp$image
 ||a.fsdn.com/sd/m/assets/dark_background2X.webp$image
 
-!||www.ansa.it/sito/img/black_gradient.png$image
+||hwupgrade.it/css/img/evidenza-bg-full.jpg
+||hwupgrade.it/css/img/evidenza-chiusura.png
+||hwupgrade.it/css/img/background-png-50-10x10.png
 
-!||hwupgrade.it/css/img/evidenza-bg-full.jpg
-!||hwupgrade.it/css/img/evidenza-chiusura.png
-!||hwupgrade.it/css/img/background-png-50-10x10.png
+!||www.ansa.it/sito/img/black_gradient.png$image
+ansa.it##body,html:style(overflow:auto!important)
+
