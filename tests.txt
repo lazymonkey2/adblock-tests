@@ -61,14 +61,15 @@ quifinanza.it##.widget_eepex
 disqus.com###comment-policy
 
 
+reddit.com##body,html:style(overflow:auto!important)
+reddit.com##.m-blurred:style(filter:none !important;)
+
 reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
 !old.reddit.com##.comment[data-author="AutoModerator"]
 !reddit.com##.comment[data-author="AutoModerator"]
 reddit.com##.comment.author[href="https://old.reddit.com/user/AutoModerator"]:upward(.comment)
 
 !reddit.com##relative.w-full.box-border.text-center.px-md.pt-md.pb-xl
-reddit.com##body,html:style(overflow:auto!important)
-reddit.com##.m-blurred:style(filter:none !important;)
 reddit.com##.m-consolidate.XPromoBottomBar
 reddit.com##.NavFrame > .m-slideIn.XPromoBottomBar
 reddit.com##.NavFrame > .XPromoBottomBar > .XPromoBottomBar__container
@@ -105,6 +106,8 @@ reddit.com##.in-feed-ad
 reddit.com##shreddit-dynamic-ad-link
 
 reddit.com##a[rel$="sponsored"]
+
+reddit.com##shreddit-async-loader[bundlename="app_selector"]
 
 
 slashdot.org##.close-ad
