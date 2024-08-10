@@ -18,4 +18,4 @@
 !reddit.com##shreddit-async-loader
 !reddit.com##body,html:style(overflow:auto!important)
 
-ilsole24ore.com##suggbox
+ilsole24ore.com##.suggbox
