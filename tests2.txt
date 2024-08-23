@@ -21,3 +21,6 @@ reddit.com##body,html:style(overflow:auto!important)
 ilsole24ore.com##.suggbox
 
 tuttoandroid.net##body,html:style(overflow:auto!important)
+
+lastampa.it##body,html:style(overflow:auto!important)
+
