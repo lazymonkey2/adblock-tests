@@ -19,3 +19,5 @@ reddit.com##shreddit-async-loader
 reddit.com##body,html:style(overflow:auto!important)
 
 ilsole24ore.com##.suggbox
+
+tuttoandroid.net##body,html:style(overflow:auto!important)
