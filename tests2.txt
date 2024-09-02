@@ -15,9 +15,9 @@
 !||www.ansa.it/sito/img/black_gradient.png$image
 !ansa.it##body,html:style(overflow:auto!important)
 
-reddit.com##shreddit-async-loader
+#reddit.com##shreddit-async-loader
 reddit.com##body,html:style(overflow:auto!important)
-reddit.com##shreddit-app
+#reddit.com##shreddit-app
 
 ilsole24ore.com##.suggbox
 ilsole24ore.com##body,html:style(overflow:auto!important)
