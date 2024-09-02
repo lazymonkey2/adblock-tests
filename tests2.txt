@@ -25,3 +25,4 @@ tuttoandroid.net##body,html:style(overflow:auto!important)
 
 lastampa.it##body,html:style(overflow:auto!important)
 
+leggo.it##body,html:style(overflow:auto!important)
