@@ -23,6 +23,9 @@ ansa.it##.iubenda-cs-close-btn
 #reddit.com##shreddit-app
 reddit.com##xpromo-app-selector
 
+reddit.com##shreddit-ad-post
+reddit.com##shreddit-comments-page-ad
+
 ilsole24ore.com##.suggbox
 ilsole24ore.com##body,html:style(overflow:auto!important)
 
