@@ -27,6 +27,8 @@ reddit.com##shreddit-ad-post
 reddit.com##shreddit-comments-page-ad
 reddit.com##shreddit-dynamic-ad-link
 
+reddit.com##.promotedlink
+
 ilsole24ore.com##.suggbox
 ilsole24ore.com##body,html:style(overflow:auto!important)
 
