@@ -37,3 +37,5 @@ lastampa.it##body,html:style(overflow:auto!important)
 leggo.it##body,html:style(overflow:auto!important)
 
 fanpage.it##.cp_video-featured--full-column.cp_wrapper--fw.cp_wrapper--fw-video.js_evidence-video
+
+euronews.com##.p3-advanced-paywall
