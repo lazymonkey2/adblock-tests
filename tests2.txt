@@ -44,3 +44,6 @@ fanpage.it##.cp_video-featured--full-column.cp_wrapper--fw.cp_wrapper--fw-video.
 euronews.com##.p3-advanced-paywall
 
 linkiesta.it##iol_player_container
+
+open.online##.adv-banner.adv-banner-topleft
+
