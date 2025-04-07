@@ -22,6 +22,7 @@ ansa.it##.iubenda-cs-close-btn
 #reddit.com##body,html:style(overflow:auto!important)
 #reddit.com##shreddit-app
 reddit.com##xpromo-app-selector
+reddit.com###xpromo-bottom-sheet
 
 reddit.com##shreddit-ad-post
 reddit.com##shreddit-comments-page-ad
