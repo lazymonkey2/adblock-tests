@@ -47,3 +47,5 @@ linkiesta.it##iol_player_container
 
 open.online##.adv-banner.adv-banner-topleft
 
+italiaoggi.it##.Brid_99999999_container
+
