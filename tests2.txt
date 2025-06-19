@@ -50,3 +50,4 @@ open.online##.adv-banner.adv-banner-topleft
 
 italiaoggi.it###Brid_99999999_container
 
+wired.it##[class*="EventBanner"]
