@@ -48,6 +48,8 @@ linkiesta.it##.banner-top
 
 open.online##.adv-banner.adv-banner-topleft
 
+quifinanza.it###iol-player-container-outer
+
 italiaoggi.it###Brid_99999999_container
 
 wired.it##[class*="EventBanner"]
