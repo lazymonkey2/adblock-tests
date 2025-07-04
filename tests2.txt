@@ -25,6 +25,7 @@ reddit.com##xpromo-app-selector
 reddit.com###xpromo-bottom-sheet
 reddit.com##faceplate-bottom-sheet
 reddit.com##[aria-label="See Reddit in..."]
+reddit.com##.justify-end.z-[100]
 
 reddit.com##shreddit-ad-post
 reddit.com##shreddit-comments-page-ad
