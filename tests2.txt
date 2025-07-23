@@ -33,6 +33,7 @@ reddit.com##shreddit-comments-page-ad
 reddit.com##shreddit-dynamic-ad-link
 
 reddit.com##.promotedlink
+reddit.com##.relative.w-full.box-border.text-center.px-md.pt-[12px].pb-[8px]
 
 ilsole24ore.com##.suggbox
 ilsole24ore.com##body,html:style(overflow:auto!important)
