@@ -57,6 +57,7 @@ linkiesta.it##.banner-top
 open.online##.adv-banner.adv-banner-topleft
 
 quifinanza.it###iol-player-container-outer
+quifinanza.it###video-player-cont
 
 italiaoggi.it###Brid_99999999_container
 
