@@ -17,6 +17,7 @@ slashdot.org##.close-ad
 !||www.ansa.it/sito/img/black_gradient.png$image
 !ansa.it##body,html:style(overflow:auto!important)
 ansa.it##.iubenda-cs-close-btn
+ansa.it###gmpSkinMobileSpacer
 
 #reddit.com##shreddit-async-loader
 #reddit.com##body,html:style(overflow:auto!important)
