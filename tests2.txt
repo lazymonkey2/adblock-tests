@@ -44,6 +44,7 @@ lastampa.it##body,html:style(overflow:auto!important)
 leggo.it##body,html:style(overflow:auto!important)
 
 fanpage.it##.cp_video-featured--full-column.cp_wrapper--fw.cp_wrapper--fw-video.js_evidence-video
+fanpage.it##.embed-container.ymv-embed-wrap.ymv-embed-wrap--format-16_9.cp_embed-featured.ymv-container--anchored
 
 euronews.com##.p3-advanced-paywall
 
