@@ -63,3 +63,5 @@ quifinanza.it###video-player-cont
 italiaoggi.it###Brid_99999999_container
 
 wired.it##[class*="EventBanner"]
+
+laleggepertutti.it##.__lxG__multi.__lxG__bsticky.__lxG__loading_block.__lxG__geo_it.__lxG__size_fixed
