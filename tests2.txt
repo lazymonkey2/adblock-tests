@@ -42,6 +42,7 @@ ilsole24ore.com##.suggbox
 ilsole24ore.com##body,html:style(overflow:auto!important)
 
 tuttoandroid.net##body,html:style(overflow:auto!important)
+tuttoandroid.net##.widofferte23-fullwidth.widofferte23-mini
 
 lastampa.it##body,html:style(overflow:auto!important)
 
