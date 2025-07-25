@@ -45,6 +45,7 @@ tuttoandroid.net##body,html:style(overflow:auto!important)
 tuttoandroid.net##.widofferte23-fullwidth.widofferte23-mini
 tuttoandroid.net##.article-banner-container
 tuttoandroid.net##.widofferte23-clear
+tuttoandroid.net##.banner-article-is
 
 lastampa.it##body,html:style(overflow:auto!important)
 
