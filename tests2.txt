@@ -80,3 +80,6 @@ laleggepertutti.it###lx_717232
 
 laleggepertutti.it##.custom-html.custom-html-18895.BelowTitle
 laleggepertutti.it##.custom-html custom-html-23940 BelowTitle
+
+laleggepertutti.it##.cl-amp-important-information
+
