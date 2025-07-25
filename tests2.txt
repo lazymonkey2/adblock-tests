@@ -49,8 +49,8 @@ tuttoandroid.net##.article-banner-container
 tuttoandroid.net##.widofferte23-clear
 tuttoandroid.net##.banner-article-is
 tuttoandroid.net##.bottombar
-tuttoandroid.net##.ta-adblock-modal
-tuttoandroid.net###ta-adblock-modal
+!tuttoandroid.net##.ta-adblock-modal
+!tuttoandroid.net###ta-adblock-modal
 
 lastampa.it##body,html:style(overflow:auto!important)
 
