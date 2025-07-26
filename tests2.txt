@@ -52,8 +52,9 @@ tuttoandroid.net##.bottombar
 !tuttoandroid.net##.ta-adblock-modal
 !tuttoandroid.net###ta-adblock-modal
 
-||tuttoandroid.net/*bundle.bd11904b.js$script
-||tuttotech.net/*bundle.bd11904b.js$script
+!||tuttoandroid.net/*bundle.bd11904b.js$script
+!||tuttotech.net/*bundle.bd11904b.js$script
+||tutto*.net/*bundle.bd11904b.js$script
 
 lastampa.it##body,html:style(overflow:auto!important)
 
