@@ -41,20 +41,21 @@ reddit.com##div#content[role="dialog"][aria-modal="true"][style="height: 68px;"]
 ilsole24ore.com##.suggbox
 ilsole24ore.com##body,html:style(overflow:auto!important)
 
-!tuttoandroid.net##body,html:style(overflow:auto!important)
-tuttoandroid.net##.widofferte23-fullwidth.widofferte23-mini
-tuttoandroid.net##.widofferte23-fullwidth
-tuttoandroid.net##.widofferte23-mini
-tuttoandroid.net##.article-banner-container
-tuttoandroid.net##.widofferte23-clear
-tuttoandroid.net##.banner-article-is
-tuttoandroid.net##.bottombar
-!tuttoandroid.net##.ta-adblock-modal
-!tuttoandroid.net###ta-adblock-modal
-
 !||tuttoandroid.net/*bundle.bd11904b.js$script
 !||tuttotech.net/*bundle.bd11904b.js$script
 ||tutto*.net/*bundle.bd11904b.js$script
+
+!tutto*.net##.ta-adblock-modal
+!tutto*.net###ta-adblock-modal
+
+!tutto*.net##body,html:style(overflow:auto!important)
+tutto*.net##.widofferte23-fullwidth.widofferte23-mini
+tutto*.net##.widofferte23-fullwidth
+tutto*.net##.widofferte23-mini
+tutto*.net##.article-banner-container
+tutto*.net##.widofferte23-clear
+tutto*.net##.banner-article-is
+tutto*.net##.bottombar
 
 lastampa.it##body,html:style(overflow:auto!important)
 
