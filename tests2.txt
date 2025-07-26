@@ -52,6 +52,8 @@ tuttoandroid.net##.bottombar
 !tuttoandroid.net##.ta-adblock-modal
 !tuttoandroid.net###ta-adblock-modal
 
+||tuttoandroid.net/*bundle.bd11904b.js$script
+
 lastampa.it##body,html:style(overflow:auto!important)
 
 leggo.it##body,html:style(overflow:auto!important)
