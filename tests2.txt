@@ -45,17 +45,25 @@ ilsole24ore.com##body,html:style(overflow:auto!important)
 !||tuttotech.net/*bundle.bd11904b.js$script
 ||tutto*.net/*bundle.bd11904b.js$script
 
-!tutto*.net##.ta-adblock-modal
-!tutto*.net###ta-adblock-modal
+!tuttoandroid.net##.ta-adblock-modal
+!tuttoandroid.net###ta-adblock-modal
+!tuttoandroid.net##body,html:style(overflow:auto!important)
 
-!tutto*.net##body,html:style(overflow:auto!important)
-tutto*.net##.widofferte23-fullwidth.widofferte23-mini
-tutto*.net##.widofferte23-fullwidth
-tutto*.net##.widofferte23-mini
-tutto*.net##.article-banner-container
-tutto*.net##.widofferte23-clear
-tutto*.net##.banner-article-is
-tutto*.net##.bottombar
+tuttoandroid.net##.widofferte23-fullwidth.widofferte23-mini
+tuttoandroid.net##.widofferte23-fullwidth
+tuttoandroid.net##.widofferte23-mini
+tuttoandroid.net##.article-banner-container
+tuttoandroid.net##.widofferte23-clear
+tuttoandroid.net##.banner-article-is
+tuttoandroid.net##.bottombar
+
+tuttotech.net##.widofferte23-fullwidth.widofferte23-mini
+tuttotech.net##.widofferte23-fullwidth
+tuttotech.net##.widofferte23-mini
+tuttotech.net##.article-banner-container
+tuttotech.net##.widofferte23-clear
+tuttotech.net##.banner-article-is
+tuttotech.net##.bottombar
 
 lastampa.it##body,html:style(overflow:auto!important)
 
