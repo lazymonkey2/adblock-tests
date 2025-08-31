@@ -41,7 +41,7 @@ reddit.com##div#content[role="dialog"][aria-modal="true"][style="height: 68px;"]
 
 !||redditstatic.com/shreddit/*/apply-polyfill
 
-reddit.com##shreddit-comment[author="AutoModerator"]
+!reddit.com##shreddit-comment[author="AutoModerator"]
 
 ilsole24ore.com##.suggbox
 ilsole24ore.com##body,html:style(overflow:auto!important)
