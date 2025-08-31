@@ -21,9 +21,10 @@ hwupgrade.it##.amz-selection
 ansa.it##.iubenda-cs-close-btn
 ansa.it###gmpSkinMobileSpacer
 
-#reddit.com##shreddit-async-loader
-#reddit.com##body,html:style(overflow:auto!important)
-#reddit.com##shreddit-app
+!reddit.com##shreddit-async-loader
+!reddit.com##body,html:style(overflow:auto!important)
+!reddit.com##shreddit-app
+
 reddit.com##xpromo-app-selector
 reddit.com###xpromo-bottom-sheet
 reddit.com##faceplate-bottom-sheet
