@@ -1,5 +1,8 @@
 ! my personal experimentations in ads blocking v2
 
+uspms.it###tca-sticky
+uspms.it##.pushly_container
+
 ||a.fsdn.com/sd/m/assets/white_background2X.png$image
 ||a.fsdn.com/sd/m/assets/light_background2X.png$image
 ||a.fsdn.com/sd/m/assets/dark_background2X.png$image
