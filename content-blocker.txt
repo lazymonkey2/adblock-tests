@@ -37,3 +37,4 @@ insideover.com##.subscriptions-banner.p-lg-5.p-4
 insideover.com##.newsletter-widget
 insideover.com##.citazione
 laleggepertutti.it##.cl-amp-important-information
+ilsoftware.it##.blz_affiliation_disclaimer
