@@ -38,5 +38,3 @@ insideover.com##.newsletter-widget
 insideover.com##.citazione
 laleggepertutti.it##.cl-amp-important-information
 ilsoftware.it##.blz_affiliation_disclaimer
-huffingtonpost.it###adv-Top
-
