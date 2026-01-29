@@ -1,5 +1,7 @@
 ! my personal experimentations in ads blocking v2
 
+||alb.reddit.com^
+
 uspms.it###tca-sticky
 uspms.it##.pushly_container
 
