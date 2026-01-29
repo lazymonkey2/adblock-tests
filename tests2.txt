@@ -1,6 +1,7 @@
 ! my personal experimentations in ads blocking v2
 
-||alb.reddit.com^
+!||alb.reddit.com^
+reddit.com##a.w-100.block.h-100.cursor-pointer[aria-label^="Advertisement"]
 
 uspms.it###tca-sticky
 uspms.it##.pushly_container
