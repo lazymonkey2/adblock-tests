@@ -10,14 +10,3 @@
 
 slashdot.org##.close-ad
 
-reddit.com##shreddit-comment[author="AutoModerator"]
-reddit.com##shreddit-async-loader
-reddit.com##xpromo-app-selector
-reddit.com###xpromo-bottom-sheet
-reddit.com##faceplate-bottom-sheet
-reddit.com##[aria-label="See Reddit in..."]
-reddit.com##shreddit-ad-post
-reddit.com##shreddit-comments-page-ad
-reddit.com##shreddit-dynamic-ad-link
-reddit.com##.promotedlink
-reddit.com##.relative.w-full.box-border.text-center.px-md
