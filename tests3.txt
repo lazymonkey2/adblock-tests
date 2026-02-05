@@ -18,7 +18,7 @@ reddit.com##shreddit-dynamic-ad-link
 
 reddit.com##.promotedlink
 
-reddit.com##div#content[role="dialog"][aria-modal="true"][style="height: 68px;"]
+!reddit.com##div#content[role="dialog"][aria-modal="true"][style="height: 68px;"]
 
 reddit.com##.relative.w-full.box-border.text-center.px-md
 !!!!!!!!!!!!!!!!!!!!!!!!!!reddit.com##.relative.w-full.box-border.text-center.px-md.pt-[12px].pb-[8px]
