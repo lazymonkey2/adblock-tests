@@ -1,32 +1,23 @@
-!regole per vivaldi con la sintassi di adblock plus
+!vivaldi adblock rules v3
 
-! qui sotto ko -> vivaldi lo supporta ma sparisce tutta la pagina... (stessa cosa su ublock origin in firefox)
-!reddit.com##shreddit-app
+||a.fsdn.com/sd/m/assets/white_background2X.png$image
+||a.fsdn.com/sd/m/assets/light_background2X.png$image
+||a.fsdn.com/sd/m/assets/dark_background2X.png$image
+
+||a.fsdn.com/sd/m/assets/white_background2X.webp$image
+||a.fsdn.com/sd/m/assets/light_background2X.webp$image
+||a.fsdn.com/sd/m/assets/dark_background2X.webp$image
+
+slashdot.org##.close-ad
 
 reddit.com##shreddit-comment[author="AutoModerator"]
-
 reddit.com##shreddit-async-loader
 reddit.com##xpromo-app-selector
 reddit.com###xpromo-bottom-sheet
 reddit.com##faceplate-bottom-sheet
-
 reddit.com##[aria-label="See Reddit in..."]
-
 reddit.com##shreddit-ad-post
 reddit.com##shreddit-comments-page-ad
 reddit.com##shreddit-dynamic-ad-link
-
 reddit.com##.promotedlink
-
-!reddit.com##div#content[role="dialog"][aria-modal="true"][style="height: 68px;"]
-
 reddit.com##.relative.w-full.box-border.text-center.px-md
-!!!!!!!!!!!!!!!!!!!!!!!!!!reddit.com##.relative.w-full.box-border.text-center.px-md.pt-[12px].pb-[8px]
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!reddit.com##.justify-end.z-[100]
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!reddit.com##body,html:style(overflow:auto!important)
-
-! qui sotto sembra ok in vivaldi ma è inutile, perché serve solo su firefox 
-!||redditstatic.com/shreddit/*/apply-polyfill
-
