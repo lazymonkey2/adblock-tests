@@ -15,4 +15,5 @@
 slashdot.org##.close-ad
 
 ansa.it###gmpSkinMobileSpacer
+quattroruote.it###advM_MastheadTop
 
