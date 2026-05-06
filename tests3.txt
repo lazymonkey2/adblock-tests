@@ -19,3 +19,5 @@ quattroruote.it###advM_MastheadTop
 
 ilsole24ore.com##.suggbox
 
+ilsoftware.it##.blz_affiliation_disclaimer
+
