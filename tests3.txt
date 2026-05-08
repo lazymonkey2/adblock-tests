@@ -21,3 +21,8 @@ ilsole24ore.com##.suggbox
 
 ilsoftware.it##.blz_affiliation_disclaimer
 
+@@||m.slashdot.org^$third-party,domain=m.slashdot.org
+@@||m.slashdot.org^$script,domain=m.slashdot.org
+@@||m.slashdot.org^$image,domain=m.slashdot.org
+@@||m.slashdot.org^$xmlhttprequest,domain=m.slashdot.org
+@@||m.slashdot.org^$subdocument,domain=m.slashdot.org
