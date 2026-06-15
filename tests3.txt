@@ -16,6 +16,14 @@
 ||a.fsdn.com/sd/m/assets/light_background2X.webp
 ||a.fsdn.com/sd/m/assets/dark_background2X.webp
 
+@@||a.fsdn.com/sd/slashdot_favicon_white.png
+
+!@@||m.slashdot.org^$third-party,domain=m.slashdot.org
+!@@||m.slashdot.org^$script,domain=m.slashdot.org
+!@@||m.slashdot.org^$image,domain=m.slashdot.org
+!@@||m.slashdot.org^$xmlhttprequest,domain=m.slashdot.org
+!@@||m.slashdot.org^$subdocument,domain=m.slashdot.org
+
 ||hwupgrade.it/css/img/evidenza-bg-full.jpg
 ||hwupgrade.it/css/img/evidenza-chiusura.png
 ||hwupgrade.it/css/img/background-png-50-10x10.png
@@ -29,9 +37,3 @@ ilsole24ore.com##.suggbox
 
 ilsoftware.it##.blz_affiliation_disclaimer
 ilsoftware.it##[class*="blz_affiliation_disclaimer"]
-
-@@||m.slashdot.org^$third-party,domain=m.slashdot.org
-@@||m.slashdot.org^$script,domain=m.slashdot.org
-@@||m.slashdot.org^$image,domain=m.slashdot.org
-@@||m.slashdot.org^$xmlhttprequest,domain=m.slashdot.org
-@@||m.slashdot.org^$subdocument,domain=m.slashdot.org
