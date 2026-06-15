@@ -1,20 +1,12 @@
 !vivaldi adblock rules v3
 
-||a.fsdn.com/sd/m/assets/white_background2X.png$image
-||a.fsdn.com/sd/m/assets/light_background2X.png$image
-||a.fsdn.com/sd/m/assets/dark_background2X.png$image
+||a.fsdn.com/sd/m/assets/white_background2X.png$image,domain=m.slashdot.org
+||a.fsdn.com/sd/m/assets/light_background2X.png$image,domain=m.slashdot.org
+||a.fsdn.com/sd/m/assets/dark_background2X.png$image,domain=m.slashdot.org
 
-||a.fsdn.com/sd/m/assets/white_background2X.webp$image
-||a.fsdn.com/sd/m/assets/light_background2X.webp$image
-||a.fsdn.com/sd/m/assets/dark_background2X.webp$image
-
-||a.fsdn.com/sd/m/assets/white_background2X.png
-||a.fsdn.com/sd/m/assets/light_background2X.png
-||a.fsdn.com/sd/m/assets/dark_background2X.png
-
-||a.fsdn.com/sd/m/assets/white_background2X.webp
-||a.fsdn.com/sd/m/assets/light_background2X.webp
-||a.fsdn.com/sd/m/assets/dark_background2X.webp
+||a.fsdn.com/sd/m/assets/white_background2X.webp$image,domain=m.slashdot.org
+||a.fsdn.com/sd/m/assets/light_background2X.webp$image,domain=m.slashdot.org
+||a.fsdn.com/sd/m/assets/dark_background2X.webp$image,domain=m.slashdot.org
 
 @@||a.fsdn.com/sd/slashdot_favicon_white.png
 
