@@ -29,6 +29,7 @@
 ||hwupgrade.it/css/img/background-png-50-10x10.png
 
 slashdot.org##.close-ad
+slashdot.org##.topbar-tool
 
 ansa.it###gmpSkinMobileSpacer
 quattroruote.it###advM_MastheadTop
