@@ -8,7 +8,7 @@
 ||a.fsdn.com/sd/m/assets/light_background2X.webp$image,domain=m.slashdot.org
 ||a.fsdn.com/sd/m/assets/dark_background2X.webp$image,domain=m.slashdot.org
 
-@@||a.fsdn.com/sd/slashdot_favicon_white.png
+@@||a.fsdn.com/sd/slashdot_favicon_white.png$image,domain=slashdot.org
 
 !@@||m.slashdot.org^$third-party,domain=m.slashdot.org
 !@@||m.slashdot.org^$script,domain=m.slashdot.org
