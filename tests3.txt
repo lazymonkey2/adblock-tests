@@ -31,4 +31,4 @@ ilsole24ore.com##.suggbox
 ilsoftware.it##.blz_affiliation_disclaimer
 ilsoftware.it##[class*="blz_affiliation_disclaimer"]
 
-##div[x-show="openModal"]
+tomshw.it##div[x-show="openModal"]
