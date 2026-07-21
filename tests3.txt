@@ -32,3 +32,5 @@ ilsoftware.it##.blz_affiliation_disclaimer
 ilsoftware.it##[class*="blz_affiliation_disclaimer"]
 
 tomshw.it##div[x-show="openModal"]
+
+hdblog.it##.blz_affiliation_disclaimer
