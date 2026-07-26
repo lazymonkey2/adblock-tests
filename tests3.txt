@@ -34,3 +34,5 @@ ilsoftware.it##[class*="blz_affiliation_disclaimer"]
 tomshw.it##div[x-show="openModal"]
 
 hdblog.it##.blz_affiliation_disclaimer
+
+ilfattoquotidiano.it###corporate-navigation-mobile
