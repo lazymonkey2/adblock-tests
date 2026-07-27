@@ -38,3 +38,6 @@ insideover.com##.newsletter-widget
 insideover.com##.citazione
 laleggepertutti.it##.cl-amp-important-information
 ilsoftware.it##.blz_affiliation_disclaimer
+tomshw.it##div[x-show="openModal"]
+hdblog.it##.blz_affiliation_disclaimer
+ilfattoquotidiano.it###corporate-navigation-mobile
