@@ -1,3 +1,4 @@
+||a.fsdn.com/sd/m/assets/*background2X.*$image
 linkiesta.it###iol_player_container
 reddit.com###backdrop
 reddit.com##.w-full.box-border.text-center.px-md
@@ -18,12 +19,6 @@ hdblog.it###div-gpt-ad-MPU_Top
 laleggepertutti.it##.custom-html
 redhotcyber.com##.advertising-rhc
 quifinanza.it###video-player-cont
-||a.fsdn.com/sd/m/assets/white_background2X.png$image
-||a.fsdn.com/sd/m/assets/light_background2X.png$image
-||a.fsdn.com/sd/m/assets/dark_background2X.png$image
-||a.fsdn.com/sd/m/assets/white_background2X.webp$image
-||a.fsdn.com/sd/m/assets/light_background2X.webp$image
-||a.fsdn.com/sd/m/assets/dark_background2X.webp$image
 reddit.com##shreddit-comment[author="AutoModerator"]
 libero.it###video-player-cont
 dday.it##.item-wrapper
