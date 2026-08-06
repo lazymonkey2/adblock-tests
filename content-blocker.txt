@@ -1,4 +1,5 @@
 ||a.fsdn.com/sd/m/assets/*background2X.*$image
+m.slashdot.org###mobile-client-footer
 linkiesta.it###iol_player_container
 reddit.com###backdrop
 reddit.com##.w-full.box-border.text-center.px-md
