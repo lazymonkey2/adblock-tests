@@ -49,4 +49,4 @@ milanofinanza.it###gptHead
 ilrestodelcarlino.it##.inPage
 ilrestodelcarlino.it##section[class*="DiscoveryLink_discoveryWrapperWidget"]
 euronews.com##.Mobile_Sticky_Right
-euronews.com###connatix-container
+euronews.com##.connatix-container
