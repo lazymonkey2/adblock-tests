@@ -56,5 +56,5 @@ euronews.com###swiper-next
 euronews.com###swiper-prev
 open.online##.google-preferred-site
 dday.it##.channel-box
-||mondosanita.it/*/summarize_controller.js$script
+||mondosanita.it/js/jquery.scrollTo.js$script
 mondosanita.it##.bannervcms
