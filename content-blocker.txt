@@ -42,3 +42,4 @@ uspms.it###webpush-banner
 ilsoftware.it##.discover_button
 gamberorosso.it##.elementor-element.e-con-full.heroBan.e-flex.e-con.e-child
 finanzaonline.it###leoskin-content
+hdblog.it##.discover_button
