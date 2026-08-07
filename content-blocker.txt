@@ -45,3 +45,4 @@ finanzaonline.it###leoskin-content
 hdblog.it##.discover_button
 hdblog.it##.telegram_button
 milanofinanza.it###widget-root
+milanofinanza.it###gptHead
