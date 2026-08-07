@@ -54,3 +54,4 @@ euronews.com##.connatix-container
 euronews.com###connatix-player
 euronews.com###swiper-next
 euronews.com###swiper-prev
+open.online##.google-preferred-site
