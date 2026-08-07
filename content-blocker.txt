@@ -57,3 +57,4 @@ euronews.com###swiper-prev
 open.online##.google-preferred-site
 dday.it##.channel-box
 leggo.it##div[style="height:100px"]
+quattroruote.it##.googleCta
