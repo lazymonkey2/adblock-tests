@@ -51,3 +51,5 @@ ilrestodelcarlino.it##section[class*="DiscoveryLink_discoveryWrapperWidget"]
 euronews.com##.Mobile_Sticky_Right
 euronews.com##.connatix-container
 euronews.com###connatix-player
+euronews.com###swiper-next
+euronews.com###swiper-prev
