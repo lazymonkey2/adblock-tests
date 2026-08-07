@@ -44,3 +44,4 @@ gamberorosso.it##.elementor-element.e-con-full.heroBan.e-flex.e-con.e-child
 finanzaonline.it###leoskin-content
 hdblog.it##.discover_button
 hdblog.it##.telegram_button
+milanofinanza.it###widget-root
