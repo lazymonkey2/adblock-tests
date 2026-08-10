@@ -64,7 +64,8 @@ redhotcyber.com###rhc-popup-overlay
 redhotcyber.com###rhc-mid-wrapper
 redhotcyber.com###rhc-top-wrapper
 redhotcyber.com##img#google-banner
-xda-developers.com##div[id^="ad-zone-container-ccr"]
-xda-developers.com##div[id^="ad-zone-size-container-ccr"]
-xda-developers.com##div[id^="adsninja-ad-zone-ccr"]
-xda-developers.com##div[id^="dynamically-injected-refresh-ad-zone-ccr"]
+xda-developers.com##[id^="ad-zone-container-ccr"]
+xda-developers.com##[id^="ad-zone-size-container-ccr"]
+xda-developers.com##[id^="adsninja-ad-zone-ccr"]
+xda-developers.com##[id^="dynamically-injected-refresh-ad-zone-ccr"]
+xda-developers.com##.adsninja-ad-zone
