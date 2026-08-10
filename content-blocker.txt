@@ -66,3 +66,4 @@ redhotcyber.com###rhc-top-wrapper
 redhotcyber.com##img#google-banner
 xda-developers.com##div[id^="ad-zone-container-ccr"]
 xda-developers.com##div[id^="ad-zone-size-container-ccr"]
+xda-developers.com##div[id^="adsninja-ad-zone-ccr"]
