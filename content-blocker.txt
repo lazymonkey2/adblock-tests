@@ -64,4 +64,4 @@ redhotcyber.com###rhc-popup-overlay
 redhotcyber.com###rhc-mid-wrapper
 redhotcyber.com###rhc-top-wrapper
 redhotcyber.com##img#google-banner
-xda-developers.com##.ad-current
+xda-developers.com##div[class^="ad-zone-container-ccr"]
