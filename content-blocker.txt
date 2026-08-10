@@ -59,3 +59,4 @@ dday.it##.channel-box
 leggo.it##div[style="height:100px"]
 quattroruote.it##.googleCta
 milanocittastato.it##.the_champ_sharing_container.the_champ_horizontal_sharing
+greenstyle.it###flx-sticky
