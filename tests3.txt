@@ -38,3 +38,5 @@ tomshw.it##div[x-show="openModal"]
 hdblog.it##.blz_affiliation_disclaimer
 
 ilfattoquotidiano.it###corporate-navigation-mobile
+
+x.com##body,html:style(overflow:auto!important)
