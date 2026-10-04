@@ -1,0 +1,25 @@
+!||alb.reddit.com^
+reddit.com##a.w-100.block.h-100.cursor-pointer[aria-label^="Advertisement"]
+
+!reddit.com##shreddit-async-loader
+!reddit.com##body,html:style(overflow:auto!important)
+!reddit.com##shreddit-app
+
+reddit.com##xpromo-app-selector
+reddit.com###xpromo-bottom-sheet
+reddit.com##faceplate-bottom-sheet
+reddit.com##[aria-label="See Reddit in..."]
+reddit.com##.justify-end.z-[100]
+
+reddit.com##shreddit-ad-post
+reddit.com##shreddit-comments-page-ad
+reddit.com##shreddit-dynamic-ad-link
+
+reddit.com##.promotedlink
+reddit.com##.relative.w-full.box-border.text-center.px-md.pt-[12px].pb-[8px]
+reddit.com##div#content[role="dialog"][aria-modal="true"][style="height: 68px;"]
+
+!||redditstatic.com/shreddit/*/apply-polyfill
+
+!reddit.com##shreddit-comment[author="AutoModerator"]
+
