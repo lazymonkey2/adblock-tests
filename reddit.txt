@@ -25,3 +25,47 @@ reddit.com##div#content[role="dialog"][aria-modal="true"][style="height: 68px;"]
 
 reddit.com##.m-blurred:style(filter:none !important;)
 
+reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
+!old.reddit.com##.comment[data-author="AutoModerator"]
+!reddit.com##.comment[data-author="AutoModerator"]
+reddit.com##.comment.author[href="https://old.reddit.com/user/AutoModerator"]:upward(.comment)
+
+!reddit.com##relative.w-full.box-border.text-center.px-md.pt-md.pb-xl
+reddit.com##.m-consolidate.XPromoBottomBar
+reddit.com##.NavFrame > .m-slideIn.XPromoBottomBar
+reddit.com##.NavFrame > .XPromoBottomBar > .XPromoBottomBar__container
+reddit.com##.m-animated.XPromoPopup__content
+reddit.com##.m-animated.XPromoPopup__overlay
+reddit.com##.m-animated.XPromoPopupRpl__content
+reddit.com##.m-animated.XPromoPopupRpl__overlay
+reddit.com##.m-active.XPromoPopupRpl
+reddit.com##.m-consolidate.XPromoBottomBar
+reddit.com##shreddit-experience-tree.theme-beta
+reddit.com##.XPromoPopupRpl__content.m-animated
+reddit.com##[class=XPromoPopupRpl__content]
+reddit.com##[class=promoted]
+reddit.com##header > div > div > div > div > a[href="/now"]
+reddit.com###adLinkBar
+reddit.com##[style^="z-index"]
+reddit.com##.size-compact.Post:has([class*="promoted"])
+reddit.com##[class=promotedlink]
+reddit.com##.promotedlink
+
+reddit.com#?#:-abp-has(.promoted)
+!reddit.com#?#:-abp-has(.XPromoPopupRpl__content)
+
+! 2023-07-07 https://preview.redd.it
+preview.redd.it##shreddit-async-loader:nth-of-type(2)
+
+!reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
+
+reddit.com##relative.w-full.box-border.text-center.px-md.pt-md.pb-xl
+reddit.com##xpromo-app-selector
+reddit.com##shreddit-ad-post
+reddit.com##shreddit-with-observer-wrapper
+reddit.com##.in-feed-ad
+reddit.com##shreddit-dynamic-ad-link
+
+reddit.com##a[rel$="sponsored"]
+
+reddit.com##shreddit-async-loader[bundlename="app_selector"]
