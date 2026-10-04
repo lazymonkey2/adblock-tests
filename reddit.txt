@@ -23,3 +23,5 @@ reddit.com##div#content[role="dialog"][aria-modal="true"][style="height: 68px;"]
 
 !reddit.com##shreddit-comment[author="AutoModerator"]
 
+reddit.com##.m-blurred:style(filter:none !important;)
+
