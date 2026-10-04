@@ -18,3 +18,10 @@
 
 slashdot.org##.close-ad
 slashdot.org###topbar-tool
+
+slashdot.org##.ad-on.river_bottom
+slashdot.org###river_bottom
+slashdot.org##.ad-on.google_ad.story_slot2
+slashdot.org###announcementText
+slashdot.org###announcement
+
