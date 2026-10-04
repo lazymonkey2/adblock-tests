@@ -1,39 +1,39 @@
-! my personal experimentations in ads blocking.
+! my personal experimentations in ads blocking v4
+
+!##.author_ad.adsbygoogle
+!9to5google.com##.author_ad.adsbygoogle
 
 stackoverflow.com###signup-popup
 stackoverflow.com###signup-dialog-container
 
 today.it##.i-amphtml-consent-ui-placeholder
 
+uspms.it###tca-sticky
+uspms.it##.pushly_container
+
 ghacks.net##marfeel-flowcards
 ghacks.net##.home-posts.ftd-item
 
 hdblog.it##.blz_affiliation_disclaimer
 
-||a.fsdn.com/sd/m/assets/white_background2X.png$image
-||a.fsdn.com/sd/m/assets/light_background2X.png$image
-||a.fsdn.com/sd/m/assets/dark_background2X.png$image
-
-||a.fsdn.com/sd/m/assets/white_background2X.webp$image
-||a.fsdn.com/sd/m/assets/light_background2X.webp$image
-||a.fsdn.com/sd/m/assets/dark_background2X.webp$image
-
 ||hwupgrade.it/css/img/evidenza-bg-full.jpg
 ||hwupgrade.it/css/img/evidenza-chiusura.png
 ||hwupgrade.it/css/img/background-png-50-10x10.png
+hwupgrade.it##.amz-selection
 
 !||gaming.hwupgrade.it/css/img/evidenza-bg-full.jpg
 !||gaming.hwupgrade.it/css/img/evidenza-chiusura.png
 !||gaming.hwupgrade.it/css/img/background-png-50-10x10.png
+!||ansa.it/sito/img/black_gradient.png$image
 
-
-||www.ansa.it/sito/img/black_gradient.png$image
 ansa.it##.i-amphtml-error.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
 ansa.it##.i-amphtml-new-loader
 ansa.it###O_INTERSTITIAL
 ansa.it##.my_adsense
 ansa.it##header > .hidden-tablet.hidden-desktop.adv-phone
-
+!ansa.it##body,html:style(overflow:auto!important)
+ansa.it##.iubenda-cs-close-btn
+ansa.it###gmpSkinMobileSpacer
 
 ilfattoquotidiano.it##.fq-extra-pushbar__content
 ilfattoquotidiano.it##.i-amphtml-new-loader
@@ -52,78 +52,22 @@ ilfattoquotidiano.it##.ifq-dfp.widget
 ilfattoquotidiano.it##.i-amphtml-layout.i-amphtml-error.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed
 ilfattoquotidiano.it##.i-amphtml-unresolved.amp-unresolved.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive > i-amphtml-sizer
 ilfattoquotidiano.it##.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive
-
 ilfattoquotidiano.it##.adv-h-100.corporate-navigation
 ilfattoquotidiano.it##.article-ifq-bottom-pro-sostenitore-wrapper-title
 
+open.online##.adv-banner.adv-banner-topleft
+
+quifinanza.it###iol-player-container-outer
+quifinanza.it###video-player-cont
 quifinanza.it##.widget_eepex
 
 disqus.com###comment-policy
 
-
-reddit.com##body,html:style(overflow:auto!important)
-reddit.com##.m-blurred:style(filter:none !important;)
-
-reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
-!old.reddit.com##.comment[data-author="AutoModerator"]
-!reddit.com##.comment[data-author="AutoModerator"]
-reddit.com##.comment.author[href="https://old.reddit.com/user/AutoModerator"]:upward(.comment)
-
-!reddit.com##relative.w-full.box-border.text-center.px-md.pt-md.pb-xl
-reddit.com##.m-consolidate.XPromoBottomBar
-reddit.com##.NavFrame > .m-slideIn.XPromoBottomBar
-reddit.com##.NavFrame > .XPromoBottomBar > .XPromoBottomBar__container
-reddit.com##.m-animated.XPromoPopup__content
-reddit.com##.m-animated.XPromoPopup__overlay
-reddit.com##.m-animated.XPromoPopupRpl__content
-reddit.com##.m-animated.XPromoPopupRpl__overlay
-reddit.com##.m-active.XPromoPopupRpl
-reddit.com##.m-consolidate.XPromoBottomBar
-reddit.com##shreddit-experience-tree.theme-beta
-reddit.com##.XPromoPopupRpl__content.m-animated
-reddit.com##[class=XPromoPopupRpl__content]
-reddit.com##[class=promoted]
-reddit.com##header > div > div > div > div > a[href="/now"]
-reddit.com###adLinkBar
-reddit.com##[style^="z-index"]
-reddit.com##.size-compact.Post:has([class*="promoted"])
-reddit.com##[class=promotedlink]
-reddit.com##.promotedlink
-
-reddit.com#?#:-abp-has(.promoted)
-!reddit.com#?#:-abp-has(.XPromoPopupRpl__content)
-
-! 2023-07-07 https://preview.redd.it
-preview.redd.it##shreddit-async-loader:nth-of-type(2)
-
-!reddit.com##[data-testid="comment_author_link"][href="/user/AutoModerator/"]:upward(.Comment)
-
-reddit.com##relative.w-full.box-border.text-center.px-md.pt-md.pb-xl
-reddit.com##xpromo-app-selector
-reddit.com##shreddit-ad-post
-reddit.com##shreddit-with-observer-wrapper
-reddit.com##.in-feed-ad
-reddit.com##shreddit-dynamic-ad-link
-
-reddit.com##a[rel$="sponsored"]
-
-reddit.com##shreddit-async-loader[bundlename="app_selector"]
-
-
-slashdot.org##.close-ad
-slashdot.org##.ad-on.river_bottom
-slashdot.org###river_bottom
-slashdot.org##.ad-on.google_ad.story_slot2
-slashdot.org###announcementText
-slashdot.org###announcement
-
-linkiesta.it###iol_player_container > div
-linkiesta.it##.banner-top
-linkiesta.it##.vjs-top-parent-mobile
-linkiesta.it##.iubenda-tp-btn--bottom-left.iubenda-tp-btn
+italiaoggi.it###Brid_99999999_container
 
 wired.it##.root
 wired.it##.cne-interlude.cne
+wired.it##[class*="EventBanner"]
 
 repubblica.it##.social-share
 repubblica.it##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > i-amphtml-sizer
@@ -132,6 +76,20 @@ repubblica.it##.inline-photo > .i-amphtml-layout.i-amphtml-built.i-amphtml-layou
 repubblica.it###social-share-top
 repubblica.it##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
 
+corriere.it##div.bck-adv > .is-mr-b-20.bck-adv
+corriere.it###rcsad_Bottom1
+corriere.it##.footer-article > .bck-adv > .is--large.adv__content
+
+lastampa.it##body,html:style(overflow:auto!important)
+
+ilsole24ore.com##.shrinkable.background-adv
+ilsole24ore.com##.suggbox-content
+ilsole24ore.com##.suggbox-top
+ilsole24ore.com##body,html:style(overflow:auto!important)
+ilsole24ore.com##.sticky-header
+ilsole24ore.com##.suggbox
+
+euronews.com##.p3-advanced-paywall
 
 fanpage.it##.fp_header__notification-tooltip
 fanpage.it##.fp_underfollow--no-media.js_underfollow.fp_underfollow--active.fp_underfollow--default.fp_underfollow
@@ -140,20 +98,18 @@ fanpage.it##.js-smart-collapse.fp_adv-box--odd.fp_adv-box--to-tablet.fp_adv-box-
 fanpage.it##.js-smart-collapse.fp_adv-box--only-mobile.fp_adv-box--fpmobile_300x250.fp_adv-box
 fanpage.it##.js-smart-collapse.fp_adv-box--only-mobile.fp_adv-box--fpmobile_fplayer.fp_adv-box
 fanpage.it##.js-smart-collapse.fp_adv-box--both.fp_adv-box--fpmobile_300x250_bottom.fp_adv-box
-fanpage.it##.js-smart-collapse.fp_adv-box--odd.fp_adv-box--to-tablet.fp_adv-box--fpmobile_300x250_top.fp_adv-box
 fanpage.it##.js-collapse-anyways.fp_adv-box--to-tablet.fp_adv-box--fpmobile_leadeboard.fp_adv-box
-fanpage.it##.js-smart-collapse.fp_adv-box--only-mobile.fp_adv-box--fpmobile_fplayer.fp_adv-box
 fanpage.it##.oembed-youtube.embed-container
-fanpage.it##.js-smart-collapse.fp_adv-box--only-mobile.fp_adv-box--fpmobile_300x250.fp_adv-box
-fanpage.it##.js-smart-collapse.fp_adv-box--both.fp_adv-box--fpmobile_300x250_bottom.fp_adv-box
 fanpage.it##.embed-container
 fanpage.it##.telegram.fp_adv-box--autopromo.fp_adv-box--both.fp_adv-box--skin.fp_adv-box
+fanpage.it##.cp_video-featured--full-column.cp_wrapper--fw.cp_wrapper--fw-video.js_evidence-video
+fanpage.it##.embed-container.ymv-embed-wrap.ymv-embed-wrap--format-16_9.cp_embed-featured.ymv-container--anchored
 
-ilsole24ore.com##.shrinkable.background-adv
-ilsole24ore.com##.suggbox-content
-ilsole24ore.com##.suggbox-top
-ilsole24ore.com##body,html:style(overflow:auto!important)
-ilsole24ore.com##.sticky-header
+linkiesta.it###iol_player_container > div
+linkiesta.it##iol_player_container
+linkiesta.it##.banner-top
+linkiesta.it##.vjs-top-parent-mobile
+linkiesta.it##.iubenda-tp-btn--bottom-left.iubenda-tp-btn
 
 tecnologia.libero.it##.vjs-top-parent-mobile
 tecnologia.libero.it##.fixed.share-cont-art
@@ -164,7 +120,6 @@ tecnologia.libero.it##body > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layo
 tecnologia.libero.it##.amp-wp-meta
 tecnologia.libero.it##.i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.hp_320x1-p1.hp_320x1
 
-
 laleggepertutti.it###cl-shadow-id1 > .is-show-login_body.h-entry.hentry.main-content > .e-content.entry-content.article-content > .article-text-full > .BelowTitle.custom-html-18895.custom-html
 laleggepertutti.it###BelowHeaderPlacementWrapper
 laleggepertutti.it##.custom-html-15562.custom-html
@@ -172,13 +127,17 @@ laleggepertutti.it##.custom-html-15563.custom-html
 laleggepertutti.it###lx_678175-1
 laleggepertutti.it###lx_678175-2 > .cl-amp-important-information-title
 laleggepertutti.it##.i-amphtml-unresolved.amp-unresolved.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-responsive > i-amphtml-sizer
+laleggepertutti.it###lx_697209
+laleggepertutti.it###lx_718813
+laleggepertutti.it###lx_718440
+laleggepertutti.it###lx_717232
+laleggepertutti.it##.custom-html.custom-html-18895.BelowTitle
+laleggepertutti.it##.custom-html custom-html-23940 BelowTitle
+laleggepertutti.it##.cl-amp-important-information
 
 greenreport.it##.last.first ._iub_cs_activate
 
 www.msn.com##.ot-fade-in.onetrust-pc-dark-filter
-
-!9to5google.com##.author_ad.adsbygoogle
-##.author_ad.adsbygoogle
 
 corriere.it##.sticky-video.rcs-video.embedVideo.custom-video-sticky.player
 corriere.it##.bck-box-newsletter
@@ -189,15 +148,6 @@ ggmania.com##td > center
 sammyfans.com###aswift_0_anchor
 sammyfans.com###aswift_0_expand
 sammyfans.com###mvp-leader-wrap > .adsbygoogle
-
-greenreport.it##.last.first ._iub_cs_activate
-
-tomshw.it##.bottom_bar_fixed
-
-
-corriere.it##div.bck-adv > .is-mr-b-20.bck-adv
-corriere.it###rcsad_Bottom1
-corriere.it##.footer-article > .bck-adv > .is--large.adv__content
 
 9gag.com##article:has(.promoted)
 
@@ -211,9 +161,6 @@ medium.com##body > div:nth-of-type(2)
 
 investireoggi.it##.evobrid-iframe-container
 
-corriere.it##.sticky-video.rcs-video.embedVideo.custom-video-sticky.player
-corriere.it##.bck-box-newsletter
-
 forbes.it##.visible.speakup-floating-player-container
 
 adnkronos.com##.speakup-floating-player-container
@@ -221,6 +168,7 @@ adnkronos.com##.speakup-floating-player-container
 ilsoftware.it##.mobileOnly.re_homebox
 ||ilsoftware.it/images/gr994bg.png$image
 
+dday.it##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.twitter-tweet
 
 gizchina.it##.mrf-customBanner
 gizchina.it###mrf-details
@@ -232,16 +180,14 @@ macitynet.it##.td-a-rec.td-a-rec-id-content_bottom_mob
 macitynet.it##.td-a-rec.td-a-rec-id-footer_mob
 macitynet.it##.td-a-rec.td-a-rec-id-loop_mob
 
-
 vaielettrico.it###evobrid-container-box > div
 vaielettrico.it##.amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-intrinsic.amp-wp-enforced-sizes.wp-image-108801.size-full.aligncenter
 
 tg24.sky.it##.j-player-carousel-element.u-video-sticky
 tg24.sky.it##.s-adv-top--m.advContainer
 
-dday.it##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.twitter-tweet
-
 !bing.com##div.b_subModule:nth-of-type(3)
+bing.com##body,html:style(overflow:auto!important)
 
 primapavia.it##.evobrid-iframe-container
 
@@ -251,9 +197,9 @@ amp.tio.ch##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-nodisplay.i-ampht
 amp.tio.ch##.middlerect.ad
 amp.tio.ch##.monsterboard.ad
 
-
 leggo.it##.generic_embed
 leggo.it##.adv_skin_container
+leggo.it##body,html:style(overflow:auto!important)
 
 badtaste.it##.jw-floating-dragged.jw-reset.jw-wrapper
 badtaste.it##.middlewall.shortcode.premium-content-block > .inner
@@ -263,7 +209,6 @@ badtaste.it##.site-border-color.notifications.omega.grid_4.no_mobile_margin
 badtaste.it##.site-border-color.notifications.last-box.alpha.grid_4.no_mobile_margin
 
 huffingtonpost.it###advHook-Middle1
-
 
 tomshw.it##.hide_desktop > .bx_2.bx.det_hardware.edinet_adv_container
 tomshw.it##.mob_bx_.mob_bx.det_hardware.edinet_adv_container
@@ -276,7 +221,7 @@ tomshw.it##.hide_desktop > .bx_3.bx.det_altro.edinet_adv_container
 tomshw.it##.mob_bx_.mob_bx.det_automotive.edinet_adv_container
 tomshw.it##.hide_desktop > .bx_2.bx.det_automotive.edinet_adv_container
 tomshw.it##.hide_desktop > .bx_3.bx.det_automotive.edinet_adv_container
-
+tomshw.it##.bottom_bar_fixed
 
 businessonline.it##div.gptslot:nth-of-type(1)
 businessonline.it##div.gptslot:nth-of-type(2)
@@ -290,26 +235,40 @@ businessonline.it###frame474 > .bannerEXMP
 
 !www.google.com##.nav.nav-tabs > li:nth-of-type(2) > a > .fas.fa-spinner.fa-pulse.fa-lg
 
-bing.com##body,html:style(overflow:auto!important)
-
-leggo.it##body,html:style(overflow:auto!important)
-
 ilpost.it###maxticker
 
-! 2023-06-25 https://outlook.live.com
-#@@||res-h3.public.cdn.office.net/owamail/*$script,domain=outlook.live.com
-#@@||res-h3.public.cdn.office.net/owamail/*$xhr,domain=outlook.live.com
+!@@||res-h3.public.cdn.office.net/owamail/*$script,domain=outlook.live.com
+!@@||res-h3.public.cdn.office.net/owamail/*$xhr,domain=outlook.live.com
 
-! 2023-07-19 https://www.youtube.com
-!www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-large-round.ytp-ce-video.ytp-ce-element
 !www.youtube.com##.ytp-ce-element-show.ytp-ce-size-853.ytp-ce-top-left-quad.ytp-ce-large-round.ytp-ce-video.ytp-ce-element
 
 ilmessaggero.it##body,html:style(overflow:auto!important)
 
+||tutto*.net/*bundle.bd11904b.js$script
+
 tuttoandroid.net##.admputop2.black.banner
-#tuttoandroid.net###ta-adblock-modal
-#tuttoandroid.net##.ta-adblock-modal-open.with-blur
+!tuttoandroid.net###ta-adblock-modal
+!tuttoandroid.net##.ta-adblock-modal-open.with-blur
 tuttoandroid.net###admputop2
 tuttoandroid.net##.banner.black.admputop2
 tuttoandroid.net##.i-amphtml-new-loader
+!||tuttoandroid.net/*bundle.bd11904b.js$script
+!tuttoandroid.net##.ta-adblock-modal
+!tuttoandroid.net###ta-adblock-modal
+!tuttoandroid.net##body,html:style(overflow:auto!important)
+tuttoandroid.net##.widofferte23-fullwidth.widofferte23-mini
+tuttoandroid.net##.widofferte23-fullwidth
+tuttoandroid.net##.widofferte23-mini
+tuttoandroid.net##.article-banner-container
+tuttoandroid.net##.widofferte23-clear
+tuttoandroid.net##.banner-article-is
+tuttoandroid.net##.bottombar
 
+!||tuttotech.net/*bundle.bd11904b.js$script
+tuttotech.net##.widofferte23-fullwidth.widofferte23-mini
+tuttotech.net##.widofferte23-fullwidth
+tuttotech.net##.widofferte23-mini
+tuttotech.net##.article-banner-container
+tuttotech.net##.widofferte23-clear
+tuttotech.net##.banner-article-is
+tuttotech.net##.bottombar
