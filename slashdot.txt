@@ -1,4 +1,4 @@
-||a.fsdn.com/sd/m/assets/*background2X.*$image
+!||a.fsdn.com/sd/m/assets/*background2X.*$image
 
 ||a.fsdn.com/sd/m/assets/white_background2X.png$image,domain=m.slashdot.org
 ||a.fsdn.com/sd/m/assets/light_background2X.png$image,domain=m.slashdot.org
